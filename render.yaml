@@ -1,0 +1,13 @@
+services:
+  - type: worker
+    name: historical-launch-crawler
+
+    env: python
+
+    buildCommand: pip install -r requirements.txt
+
+    startCommand: python worker.py
+
+    plan: free
+
+    autoDeploy: true
