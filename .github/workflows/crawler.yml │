@@ -1,0 +1,51 @@
+name: Historical Batch Crawler
+
+on:
+
+  workflow_dispatch:
+
+  schedule:
+    - cron: "2 * * * *"
+
+jobs:
+
+  crawl:
+
+    runs-on: ubuntu-latest
+
+    timeout-minutes: 30
+
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install requests
+
+      - name: Run crawler
+        run: |
+          python batch_crawler.py
+
+      - name: Save progress
+        if: always()
+        run: |
+
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add .
+
+          git commit -m "crawler progress" || echo "No changes"
+
+          git pull --rebase origin main || true
+
+          git push || true
