@@ -1,0 +1,1714 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "d0fa4bb2-80ea-4808-af08-7785dde53bf6",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/d0fa4bb2-80ea-4808-af08-7785dde53bf6/",
+      "name": "Ariane 5 ECA+ | James Webb Space Telescope (JWST)",
+      "response_mode": "detailed",
+      "slug": "ariane-5-eca-james-webb-space-telescope-jwst",
+      "launch_designator": "2021-130",
+      "status": {
+        "id": 3,
+        "name": "Launch Successful",
+        "abbrev": "Success",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
+      },
+      "last_updated": "2024-06-15T14:13:15Z",
+      "net": "2021-12-25T12:20:07Z",
+      "net_precision": {
+        "id": 0,
+        "name": "Second",
+        "abbrev": "SEC",
+        "description": "The T-0 is accurate to the second."
+      },
+      "window_end": "2021-12-25T12:52:00Z",
+      "window_start": "2021-12-25T12:20:00Z",
+      "image": {
+        "id": 1288,
+        "name": "Ariane 5 ECA+ on ELA-3 by day (JWST)",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane2520525_image_20211224103958.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305192305.jpeg",
+        "credit": "ESA/S. Corvaja",
+        "license": {
+          "id": 2,
+          "name": "ESA Standard Licence",
+          "priority": 2,
+          "link": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "infographic": null,
+      "probability": null,
+      "weather_concerns": null,
+      "failreason": "",
+      "hashtag": null,
+      "launch_service_provider": {
+        "response_mode": "normal",
+        "id": 115,
+        "url": "https://ll.thespacedevs.com/2.3.0/agencies/115/",
+        "name": "Arianespace",
+        "abbrev": "ASA",
+        "type": {
+          "id": 3,
+          "name": "Commercial"
+        },
+        "featured": true,
+        "country": [
+          {
+            "id": 1,
+            "name": "France",
+            "alpha_2_code": "FR",
+            "alpha_3_code": "FRA",
+            "nationality_name": "French",
+            "nationality_name_composed": "Franco"
+          }
+        ],
+        "description": "Arianespace SA is a multinational company founded in 1980 as the world's first commercial launch service provider. It undertakes the production, operation, and marketing of the Ariane programme. Their vehicles launch exclusively from French Guiana in South America.",
+        "administrator": "CEO: David Cavaillolès",
+        "founding_year": 1980,
+        "launchers": "Ariane | Vega",
+        "spacecraft": "",
+        "parent": "ArianeGroup",
+        "image": {
+          "id": 2694,
+          "name": "Ariane 64 liftoff (LE-01)",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_thumbnail_20260213070746.jpeg",
+          "credit": "ESA/CNES/Arianespace/ArianeGroup/Optique video du CSG–P. Piron",
+          "license": {
+            "id": 2,
+            "name": "ESA Standard Licence",
+            "priority": 2,
+            "link": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
+          },
+          "single_use": false,
+          "variants": []
+        },
+        "logo": {
+          "id": 108,
+          "name": "Arianespace blue logo",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_logo_20210603173752.png",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184909.png",
+          "credit": "Arianespace",
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": [
+            {
+              "id": 11,
+              "type": {
+                "id": 1,
+                "name": "transparent for light background"
+              },
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/arianespace_log_image_20250211184850.png"
+            },
+            {
+              "id": 12,
+              "type": {
+                "id": 2,
+                "name": "transparent for dark background"
+              },
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/arianespace_log_image_20250211184853.png"
+            }
+          ]
+        },
+        "social_logo": {
+          "id": 39,
+          "name": "Arianespace social logo",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_nation_20230530190314.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184728.jpeg",
+          "credit": "Arianespace",
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "total_launch_count": 326,
+        "consecutive_successful_launches": 14,
+        "successful_launches": 311,
+        "failed_launches": 15,
+        "pending_launches": 29,
+        "consecutive_successful_landings": 0,
+        "successful_landings": 0,
+        "failed_landings": 0,
+        "attempted_landings": 0,
+        "successful_landings_spacecraft": 0,
+        "failed_landings_spacecraft": 0,
+        "attempted_landings_spacecraft": 0,
+        "successful_landings_payload": 0,
+        "failed_landings_payload": 0,
+        "attempted_landings_payload": 0,
+        "info_url": "https://www.arianespace.com",
+        "wiki_url": "https://en.wikipedia.org/wiki/Arianespace",
+        "social_media_links": [
+          {
+            "id": 247,
+            "social_media": {
+              "id": 3,
+              "name": "Homepage",
+              "url": null,
+              "logo": null
+            },
+            "url": "https://www.arianespace.com/"
+          },
+          {
+            "id": 248,
+            "social_media": {
+              "id": 4,
+              "name": "LinkedIn",
+              "url": "https://www.linkedin.com/",
+              "logo": {
+                "id": 2321,
+                "name": "LinkedIn logo",
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
+                "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
+                "credit": "LinkedIn",
+                "license": {
+                  "id": 1,
+                  "name": "Unknown",
+                  "priority": 9,
+                  "link": null
+                },
+                "single_use": true,
+                "variants": []
+              }
+            },
+            "url": "https://www.linkedin.com/company/arianespace_2/"
+          },
+          {
+            "id": 249,
+            "social_media": {
+              "id": 2,
+              "name": "Instagram",
+              "url": "https://instagram.com",
+              "logo": {
+                "id": 2322,
+                "name": "Instagram logo",
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_20250211191139.png",
+                "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_thumbnail_20250211191139.png",
+                "credit": "Instagram",
+                "license": {
+                  "id": 1,
+                  "name": "Unknown",
+                  "priority": 9,
+                  "link": null
+                },
+                "single_use": true,
+                "variants": []
+              }
+            },
+            "url": "https://www.instagram.com/arianespace/"
+          },
+          {
+            "id": 250,
+            "social_media": {
+              "id": 1,
+              "name": "X",
+              "url": "https://x.com",
+              "logo": {
+                "id": 2320,
+                "name": "X logo",
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
+                "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
+                "credit": "X",
+                "license": {
+                  "id": 1,
+                  "name": "Unknown",
+                  "priority": 9,
+                  "link": null
+                },
+                "single_use": true,
+                "variants": []
+              }
+            },
+            "url": "https://x.com/Arianespace/"
+          }
+        ]
+      },
+      "rocket": {
+        "id": 2688,
+        "configuration": {
+          "response_mode": "detailed",
+          "id": 215,
+          "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/215/",
+          "name": "Ariane 5 ECA+",
+          "families": [
+            {
+              "response_mode": "detailed",
+              "id": 59,
+              "name": "Ariane",
+              "manufacturer": [
+                {
+                  "response_mode": "normal",
+                  "id": 115,
+                  "url": "https://ll.thespacedevs.com/2.3.0/agencies/115/",
+                  "name": "Arianespace",
+                  "abbrev": "ASA",
+                  "type": {
+                    "id": 3,
+                    "name": "Commercial"
+                  },
+                  "featured": true,
+                  "country": [
+                    {
+                      "id": 1,
+                      "name": "France",
+                      "alpha_2_code": "FR",
+                      "alpha_3_code": "FRA",
+                      "nationality_name": "French",
+                      "nationality_name_composed": "Franco"
+                    }
+                  ],
+                  "description": "Arianespace SA is a multinational company founded in 1980 as the world's first commercial launch service provider. It undertakes the production, operation, and marketing of the Ariane programme. Their vehicles launch exclusively from French Guiana in South America.",
+                  "administrator": "CEO: David Cavaillolès",
+                  "founding_year": 1980,
+                  "launchers": "Ariane | Vega",
+                  "spacecraft": "",
+                  "parent": "ArianeGroup",
+                  "image": {
+                    "id": 2694,
+                    "name": "Ariane 64 liftoff (LE-01)",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_thumbnail_20260213070746.jpeg",
+                    "credit": "ESA/CNES/Arianespace/ArianeGroup/Optique video du CSG–P. Piron",
+                    "license": {
+                      "id": 2,
+                      "name": "ESA Standard Licence",
+                      "priority": 2,
+                      "link": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
+                    },
+                    "single_use": false,
+                    "variants": []
+                  },
+                  "logo": {
+                    "id": 108,
+                    "name": "Arianespace blue logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_logo_20210603173752.png",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184909.png",
+                    "credit": "Arianespace",
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": [
+                      {
+                        "id": 11,
+                        "type": {
+                          "id": 1,
+                          "name": "transparent for light background"
+                        },
+                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/arianespace_log_image_20250211184850.png"
+                      },
+                      {
+                        "id": 12,
+                        "type": {
+                          "id": 2,
+                          "name": "transparent for dark background"
+                        },
+                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/arianespace_log_image_20250211184853.png"
+                      }
+                    ]
+                  },
+                  "social_logo": {
+                    "id": 39,
+                    "name": "Arianespace social logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_nation_20230530190314.jpg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184728.jpeg",
+                    "credit": "Arianespace",
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "total_launch_count": 326,
+                  "consecutive_successful_launches": 14,
+                  "successful_launches": 311,
+                  "failed_launches": 15,
+                  "pending_launches": 29,
+                  "consecutive_successful_landings": 0,
+                  "successful_landings": 0,
+                  "failed_landings": 0,
+                  "attempted_landings": 0,
+                  "successful_landings_spacecraft": 0,
+                  "failed_landings_spacecraft": 0,
+                  "attempted_landings_spacecraft": 0,
+                  "successful_landings_payload": 0,
+                  "failed_landings_payload": 0,
+                  "attempted_landings_payload": 0,
+                  "info_url": "https://www.arianespace.com",
+                  "wiki_url": "https://en.wikipedia.org/wiki/Arianespace",
+                  "social_media_links": [
+                    {
+                      "id": 247,
+                      "social_media": {
+                        "id": 3,
+                        "name": "Homepage",
+                        "url": null,
+                        "logo": null
+                      },
+                      "url": "https://www.arianespace.com/"
+                    },
+                    {
+                      "id": 248,
+                      "social_media": {
+                        "id": 4,
+                        "name": "LinkedIn",
+                        "url": "https://www.linkedin.com/",
+                        "logo": {
+                          "id": 2321,
+                          "name": "LinkedIn logo",
+                          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
+                          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
+                          "credit": "LinkedIn",
+                          "license": {
+                            "id": 1,
+                            "name": "Unknown",
+                            "priority": 9,
+                            "link": null
+                          },
+                          "single_use": true,
+                          "variants": []
+                        }
+                      },
+                      "url": "https://www.linkedin.com/company/arianespace_2/"
+                    },
+                    {
+                      "id": 249,
+                      "social_media": {
+                        "id": 2,
+                        "name": "Instagram",
+                        "url": "https://instagram.com",
+                        "logo": {
+                          "id": 2322,
+                          "name": "Instagram logo",
+                          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_20250211191139.png",
+                          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_thumbnail_20250211191139.png",
+                          "credit": "Instagram",
+                          "license": {
+                            "id": 1,
+                            "name": "Unknown",
+                            "priority": 9,
+                            "link": null
+                          },
+                          "single_use": true,
+                          "variants": []
+                        }
+                      },
+                      "url": "https://www.instagram.com/arianespace/"
+                    },
+                    {
+                      "id": 250,
+                      "social_media": {
+                        "id": 1,
+                        "name": "X",
+                        "url": "https://x.com",
+                        "logo": {
+                          "id": 2320,
+                          "name": "X logo",
+                          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
+                          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
+                          "credit": "X",
+                          "license": {
+                            "id": 1,
+                            "name": "Unknown",
+                            "priority": 9,
+                            "link": null
+                          },
+                          "single_use": true,
+                          "variants": []
+                        }
+                      },
+                      "url": "https://x.com/Arianespace/"
+                    }
+                  ]
+                }
+              ],
+              "parent": null,
+              "description": "",
+              "active": true,
+              "maiden_flight": "1979-12-24",
+              "total_launch_count": 268,
+              "consecutive_successful_launches": 27,
+              "successful_launches": 256,
+              "failed_launches": 12,
+              "pending_launches": 29,
+              "attempted_landings": 0,
+              "successful_landings": 0,
+              "failed_landings": 0,
+              "consecutive_successful_landings": 0
+            },
+            {
+              "response_mode": "detailed",
+              "id": 61,
+              "name": "Ariane 5",
+              "manufacturer": [
+                {
+                  "response_mode": "normal",
+                  "id": 115,
+                  "url": "https://ll.thespacedevs.com/2.3.0/agencies/115/",
+                  "name": "Arianespace",
+                  "abbrev": "ASA",
+                  "type": {
+                    "id": 3,
+                    "name": "Commercial"
+                  },
+                  "featured": true,
+                  "country": [
+                    {
+                      "id": 1,
+                      "name": "France",
+                      "alpha_2_code": "FR",
+                      "alpha_3_code": "FRA",
+                      "nationality_name": "French",
+                      "nationality_name_composed": "Franco"
+                    }
+                  ],
+                  "description": "Arianespace SA is a multinational company founded in 1980 as the world's first commercial launch service provider. It undertakes the production, operation, and marketing of the Ariane programme. Their vehicles launch exclusively from French Guiana in South America.",
+                  "administrator": "CEO: David Cavaillolès",
+                  "founding_year": 1980,
+                  "launchers": "Ariane | Vega",
+                  "spacecraft": "",
+                  "parent": "ArianeGroup",
+                  "image": {
+                    "id": 2694,
+                    "name": "Ariane 64 liftoff (LE-01)",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_thumbnail_20260213070746.jpeg",
+                    "credit": "ESA/CNES/Arianespace/ArianeGroup/Optique video du CSG–P. Piron",
+                    "license": {
+                      "id": 2,
+                      "name": "ESA Standard Licence",
+                      "priority": 2,
+                      "link": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
+                    },
+                    "single_use": false,
+                    "variants": []
+                  },
+                  "logo": {
+                    "id": 108,
+                    "name": "Arianespace blue logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_logo_20210603173752.png",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184909.png",
+                    "credit": "Arianespace",
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": [
+                      {
+                        "id": 11,
+                        "type": {
+                          "id": 1,
+                          "name": "transparent for light background"
+                        },
+                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/arianespace_log_image_20250211184850.png"
+                      },
+                      {
+                        "id": 12,
+                        "type": {
+                          "id": 2,
+                          "name": "transparent for dark background"
+                        },
+                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/arianespace_log_image_20250211184853.png"
+                      }
+                    ]
+                  },
+                  "social_logo": {
+                    "id": 39,
+                    "name": "Arianespace social logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_nation_20230530190314.jpg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184728.jpeg",
+                    "credit": "Arianespace",
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "total_launch_count": 326,
+                  "consecutive_successful_launches": 14,
+                  "successful_launches": 311,
+                  "failed_launches": 15,
+                  "pending_launches": 29,
+                  "consecutive_successful_landings": 0,
+                  "successful_landings": 0,
+                  "failed_landings": 0,
+                  "attempted_landings": 0,
+                  "successful_landings_spacecraft": 0,
+                  "failed_landings_spacecraft": 0,
+                  "attempted_landings_spacecraft": 0,
+                  "successful_landings_payload": 0,
+                  "failed_landings_payload": 0,
+                  "attempted_landings_payload": 0,
+                  "info_url": "https://www.arianespace.com",
+                  "wiki_url": "https://en.wikipedia.org/wiki/Arianespace",
+                  "social_media_links": [
+                    {
+                      "id": 247,
+                      "social_media": {
+                        "id": 3,
+                        "name": "Homepage",
+                        "url": null,
+                        "logo": null
+                      },
+                      "url": "https://www.arianespace.com/"
+                    },
+                    {
+                      "id": 248,
+                      "social_media": {
+                        "id": 4,
+                        "name": "LinkedIn",
+                        "url": "https://www.linkedin.com/",
+                        "logo": {
+                          "id": 2321,
+                          "name": "LinkedIn logo",
+                          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
+                          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
+                          "credit": "LinkedIn",
+                          "license": {
+                            "id": 1,
+                            "name": "Unknown",
+                            "priority": 9,
+                            "link": null
+                          },
+                          "single_use": true,
+                          "variants": []
+                        }
+                      },
+                      "url": "https://www.linkedin.com/company/arianespace_2/"
+                    },
+                    {
+                      "id": 249,
+                      "social_media": {
+                        "id": 2,
+                        "name": "Instagram",
+                        "url": "https://instagram.com",
+                        "logo": {
+                          "id": 2322,
+                          "name": "Instagram logo",
+                          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_20250211191139.png",
+                          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_thumbnail_20250211191139.png",
+                          "credit": "Instagram",
+                          "license": {
+                            "id": 1,
+                            "name": "Unknown",
+                            "priority": 9,
+                            "link": null
+                          },
+                          "single_use": true,
+                          "variants": []
+                        }
+                      },
+                      "url": "https://www.instagram.com/arianespace/"
+                    },
+                    {
+                      "id": 250,
+                      "social_media": {
+                        "id": 1,
+                        "name": "X",
+                        "url": "https://x.com",
+                        "logo": {
+                          "id": 2320,
+                          "name": "X logo",
+                          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
+                          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
+                          "credit": "X",
+                          "license": {
+                            "id": 1,
+                            "name": "Unknown",
+                            "priority": 9,
+                            "link": null
+                          },
+                          "single_use": true,
+                          "variants": []
+                        }
+                      },
+                      "url": "https://x.com/Arianespace/"
+                    }
+                  ]
+                }
+              ],
+              "parent": {
+                "response_mode": "normal",
+                "id": 59,
+                "name": "Ariane",
+                "manufacturer": [
+                  {
+                    "response_mode": "normal",
+                    "id": 115,
+                    "url": "https://ll.thespacedevs.com/2.3.0/agencies/115/",
+                    "name": "Arianespace",
+                    "abbrev": "ASA",
+                    "type": {
+                      "id": 3,
+                      "name": "Commercial"
+                    },
+                    "featured": true,
+                    "country": [
+                      {
+                        "id": 1,
+                        "name": "France",
+                        "alpha_2_code": "FR",
+                        "alpha_3_code": "FRA",
+                        "nationality_name": "French",
+                        "nationality_name_composed": "Franco"
+                      }
+                    ],
+                    "description": "Arianespace SA is a multinational company founded in 1980 as the world's first commercial launch service provider. It undertakes the production, operation, and marketing of the Ariane programme. Their vehicles launch exclusively from French Guiana in South America.",
+                    "administrator": "CEO: David Cavaillolès",
+                    "founding_year": 1980,
+                    "launchers": "Ariane | Vega",
+                    "spacecraft": "",
+                    "parent": "ArianeGroup",
+                    "image": {
+                      "id": 2694,
+                      "name": "Ariane 64 liftoff (LE-01)",
+                      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg",
+                      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_thumbnail_20260213070746.jpeg",
+                      "credit": "ESA/CNES/Arianespace/ArianeGroup/Optique video du CSG–P. Piron",
+                      "license": {
+                        "id": 2,
+                        "name": "ESA Standard Licence",
+                        "priority": 2,
+                        "link": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
+                      },
+                      "single_use": false,
+                      "variants": []
+                    },
+                    "logo": {
+                      "id": 108,
+                      "name": "Arianespace blue logo",
+                      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_logo_20210603173752.png",
+                      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184909.png",
+                      "credit": "Arianespace",
+                      "license": {
+                        "id": 1,
+                        "name": "Unknown",
+                        "priority": 9,
+                        "link": null
+                      },
+                      "single_use": true,
+                      "variants": [
+                        {
+                          "id": 11,
+                          "type": {
+                            "id": 1,
+                            "name": "transparent for light background"
+                          },
+                          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/arianespace_log_image_20250211184850.png"
+                        },
+                        {
+                          "id": 12,
+                          "type": {
+                            "id": 2,
+                            "name": "transparent for dark background"
+                          },
+                          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/arianespace_log_image_20250211184853.png"
+                        }
+                      ]
+                    },
+                    "social_logo": {
+                      "id": 39,
+                      "name": "Arianespace social logo",
+                      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_nation_20230530190314.jpg",
+                      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184728.jpeg",
+                      "credit": "Arianespace",
+                      "license": {
+                        "id": 1,
+                        "name": "Unknown",
+                        "priority": 9,
+                        "link": null
+                      },
+                      "single_use": true,
+                      "variants": []
+                    }
+                  }
+                ],
+                "parent": null
+              },
+              "description": "",
+              "active": false,
+              "maiden_flight": "1996-06-04",
+              "total_launch_count": 117,
+              "consecutive_successful_launches": 20,
+              "successful_launches": 112,
+              "failed_launches": 5,
+              "pending_launches": 0,
+              "attempted_landings": 0,
+              "successful_landings": 0,
+              "failed_landings": 0,
+              "consecutive_successful_landings": 0
+            }
+          ],
+          "full_name": "Ariane 5 ECA+",
+          "variant": "ECA+",
+          "active": false,
+          "is_placeholder": false,
+          "manufacturer": {
+            "response_mode": "normal",
+            "id": 1044,
+            "url": "https://ll.thespacedevs.com/2.3.0/agencies/1044/",
+            "name": "ArianeGroup",
+            "abbrev": "AG",
+            "type": {
+              "id": 3,
+              "name": "Commercial"
+            },
+            "featured": false,
+            "country": [
+              {
+                "id": 1,
+                "name": "France",
+                "alpha_2_code": "FR",
+                "alpha_3_code": "FRA",
+                "nationality_name": "French",
+                "nationality_name_composed": "Franco"
+              }
+            ],
+            "description": "ArianeGroup (formerly Airbus Safran Launchers) is an aerospace company based in France. A joint venture between Airbus and Safran, the company was founded in 2015 and is headquartered in Issy-les-Moulineaux. It consists of three core arms: aerospace, defence and security.",
+            "administrator": "CEO: Christophe Bruneau",
+            "founding_year": 2015,
+            "launchers": "Ariane",
+            "spacecraft": "",
+            "parent": null,
+            "image": {
+              "id": 1692,
+              "name": "Ariane 62 on ELA-4 (Maiden Flight)",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_on_el_image_20240708201807.jpeg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_on_el_image_thumbnail_20240708201808.jpeg",
+              "credit": "ESA/L. Bourgeon",
+              "license": {
+                "id": 2,
+                "name": "ESA Standard Licence",
+                "priority": 2,
+                "link": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
+              },
+              "single_use": false,
+              "variants": []
+            },
+            "logo": {
+              "id": 107,
+              "name": "ArianeGroup logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianegroup_logo_20221130111224.PNG",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184908.png",
+              "credit": "ArianeGroup",
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": [
+                {
+                  "id": 13,
+                  "type": {
+                    "id": 1,
+                    "name": "transparent for light background"
+                  },
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/arianegroup_log_image_20250211190245.PNG"
+                },
+                {
+                  "id": 14,
+                  "type": {
+                    "id": 2,
+                    "name": "transparent for dark background"
+                  },
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/arianegroup_log_image_20250211190245.PNG"
+                }
+              ]
+            },
+            "social_logo": {
+              "id": 38,
+              "name": "ArianeGroup social logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianegroup_nation_20230802053255.jpg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184726.jpeg",
+              "credit": "ArianeGroup",
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "total_launch_count": 0,
+            "consecutive_successful_launches": 0,
+            "successful_launches": 0,
+            "failed_launches": 0,
+            "pending_launches": 0,
+            "consecutive_successful_landings": 0,
+            "successful_landings": 0,
+            "failed_landings": 0,
+            "attempted_landings": 0,
+            "successful_landings_spacecraft": 0,
+            "failed_landings_spacecraft": 0,
+            "attempted_landings_spacecraft": 0,
+            "successful_landings_payload": 0,
+            "failed_landings_payload": 0,
+            "attempted_landings_payload": 0,
+            "info_url": "https://www.ariane.group/",
+            "wiki_url": "https://en.wikipedia.org/wiki/ArianeGroup",
+            "social_media_links": [
+              {
+                "id": 234,
+                "social_media": {
+                  "id": 3,
+                  "name": "Homepage",
+                  "url": null,
+                  "logo": null
+                },
+                "url": "https://ariane.group/"
+              },
+              {
+                "id": 235,
+                "social_media": {
+                  "id": 4,
+                  "name": "LinkedIn",
+                  "url": "https://www.linkedin.com/",
+                  "logo": {
+                    "id": 2321,
+                    "name": "LinkedIn logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_20250211191111.png",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/linkedin_logo_image_thumbnail_20250211191112.png",
+                    "credit": "LinkedIn",
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  }
+                },
+                "url": "https://www.linkedin.com/company/arianegroup/"
+              },
+              {
+                "id": 236,
+                "social_media": {
+                  "id": 2,
+                  "name": "Instagram",
+                  "url": "https://instagram.com",
+                  "logo": {
+                    "id": 2322,
+                    "name": "Instagram logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_20250211191139.png",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/instagram_logo_image_thumbnail_20250211191139.png",
+                    "credit": "Instagram",
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  }
+                },
+                "url": "https://www.instagram.com/arianegroup/"
+              },
+              {
+                "id": 237,
+                "social_media": {
+                  "id": 1,
+                  "name": "X",
+                  "url": "https://x.com",
+                  "logo": {
+                    "id": 2320,
+                    "name": "X logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_20250211191027.jpg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/x_logo_image_thumbnail_20250211191027.jpeg",
+                    "credit": "X",
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  }
+                },
+                "url": "https://x.com/ArianeGroup"
+              },
+              {
+                "id": 274,
+                "social_media": {
+                  "id": 5,
+                  "name": "Bluesky",
+                  "url": "https://bsky.app/",
+                  "logo": {
+                    "id": 2323,
+                    "name": "Bluesky logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/bluesky_logo_image_20250211191214.png",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/bluesky_logo_image_thumbnail_20250211191214.png",
+                    "credit": "Bluesky",
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  }
+                },
+                "url": "https://bsky.app/profile/arianegroup.bsky.social"
+              }
+            ]
+          },
+          "program": [],
+          "reusable": false,
+          "image": {
+            "id": 1686,
+            "name": "Ariane 5 ECA liftoff (VA209)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane252052520eca_image_20190224012333.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193504.jpeg",
+            "credit": "ESA/CNES/Arianespace/Optique vidéo du CSG",
+            "license": {
+              "id": 2,
+              "name": "ESA Standard Licence",
+              "priority": 2,
+              "link": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
+            },
+            "single_use": false,
+            "variants": []
+          },
+          "info_url": null,
+          "wiki_url": "https://en.wikipedia.org/wiki/Ariane_5",
+          "description": "Ariane 5 ECA+ is a variant of the Ariane 5 heavy-lift vehicle, with a taller ECA-D upper stage.",
+          "alias": "",
+          "min_stage": 0,
+          "max_stage": 2,
+          "length": 57.7,
+          "diameter": 5.4,
+          "maiden_flight": "2019-08-07",
+          "launch_cost": null,
+          "launch_mass": 780.0,
+          "leo_capacity": null,
+          "gto_capacity": 10200.0,
+          "geo_capacity": null,
+          "sso_capacity": null,
+          "to_thrust": 11400.0,
+          "apogee": null,
+          "total_launch_count": 11,
+          "consecutive_successful_launches": 11,
+          "successful_launches": 11,
+          "failed_launches": 0,
+          "pending_launches": 0,
+          "attempted_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "consecutive_successful_landings": 0,
+          "fastest_turnaround": "P62DT10H10M7S"
+        },
+        "launcher_stage": [],
+        "spacecraft_stage": [],
+        "payloads": [
+          {
+            "response_mode": "detailed",
+            "id": 51,
+            "url": "https://ll.thespacedevs.com/2.3.0/payload_flights/51/",
+            "destination": "Sun–Earth L2",
+            "amount": 1,
+            "payload": {
+              "response_mode": "detailed",
+              "id": 44,
+              "name": "James Webb Space Telescope",
+              "type": {
+                "id": 6,
+                "name": "Space Telescope"
+              },
+              "manufacturer": {
+                "response_mode": "normal",
+                "id": 257,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/257/",
+                "name": "Northrop Grumman Space Systems",
+                "abbrev": "NGSS",
+                "type": {
+                  "id": 3,
+                  "name": "Commercial"
+                },
+                "featured": true,
+                "country": [
+                  {
+                    "id": 2,
+                    "name": "United States of America",
+                    "alpha_2_code": "US",
+                    "alpha_3_code": "USA",
+                    "nationality_name": "American",
+                    "nationality_name_composed": "Americano"
+                  }
+                ],
+                "description": "Northrup Grumman Space Systems designs, builds and delivers space, defence and aviation-related systems to customers around the world. They aquired Orbital ATK in 2018 along with its launchers and ongoing missions.",
+                "administrator": "CEO: Kathy Warden",
+                "founding_year": 2015,
+                "launchers": "Antares | Minotaur | Pegasus",
+                "spacecraft": "Cygnus",
+                "parent": null,
+                "image": {
+                  "id": 20,
+                  "name": "[AUTO] Northrop Grumman Space Systems - image",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/northrop2520grumman2520innovation2520systems_image_20190207032451.jpeg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184636.jpeg",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "logo": {
+                  "id": 165,
+                  "name": "[AUTO] Northrop Grumman Space Systems - logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/northrop2520grumman2520innovation2520systems_logo_20190207032451.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185051.png",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "social_logo": {
+                  "id": 79,
+                  "name": "[AUTO] Northrop Grumman Space Systems - social_logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/northrop2520grumman2520space2520systems_nation_20230624130158.jpg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184827.jpeg",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "total_launch_count": 16,
+                "consecutive_successful_launches": 16,
+                "successful_launches": 16,
+                "failed_launches": 0,
+                "pending_launches": 2,
+                "consecutive_successful_landings": 0,
+                "successful_landings": 0,
+                "failed_landings": 0,
+                "attempted_landings": 0,
+                "successful_landings_spacecraft": 0,
+                "failed_landings_spacecraft": 0,
+                "attempted_landings_spacecraft": 0,
+                "successful_landings_payload": 0,
+                "failed_landings_payload": 0,
+                "attempted_landings_payload": 0,
+                "info_url": "https://www.northropgrumman.com/AboutUs/BusinessSectors/InnovationSystems/Pages/default.aspx",
+                "wiki_url": "https://en.wikipedia.org/wiki/Northrop_Grumman#Innovation_Systems",
+                "social_media_links": []
+              },
+              "operator": {
+                "response_mode": "normal",
+                "id": 44,
+                "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+                "name": "National Aeronautics and Space Administration",
+                "abbrev": "NASA",
+                "type": {
+                  "id": 1,
+                  "name": "Government"
+                },
+                "featured": true,
+                "country": [
+                  {
+                    "id": 2,
+                    "name": "United States of America",
+                    "alpha_2_code": "US",
+                    "alpha_3_code": "USA",
+                    "nationality_name": "American",
+                    "nationality_name_composed": "Americano"
+                  }
+                ],
+                "description": "The National Aeronautics and Space Administration is an independent agency of the executive branch of the United States federal government responsible for the civilian space program, as well as aeronautics and aerospace research. NASA have many launch facilities but most are inactive. The most commonly used pad will be LC-39B at Kennedy Space Center in Florida.",
+                "administrator": "Administrator: Jared Isaacman",
+                "founding_year": 1958,
+                "launchers": "Space Shuttle | SLS",
+                "spacecraft": "Orion",
+                "parent": null,
+                "image": {
+                  "id": 19,
+                  "name": "[AUTO] National Aeronautics and Space Administration - image",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_image_20190207032448.jpeg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184631.jpeg",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "logo": {
+                  "id": 161,
+                  "name": "[AUTO] National Aeronautics and Space Administration - logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_logo_20190207032448.png",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185043.png",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "social_logo": {
+                  "id": 76,
+                  "name": "[AUTO] National Aeronautics and Space Administration - social_logo",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_nation_20230803040809.jpg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184823.jpeg",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "total_launch_count": 142,
+                "consecutive_successful_launches": 12,
+                "successful_launches": 122,
+                "failed_launches": 20,
+                "pending_launches": 5,
+                "consecutive_successful_landings": 0,
+                "successful_landings": 0,
+                "failed_landings": 0,
+                "attempted_landings": 0,
+                "successful_landings_spacecraft": 179,
+                "failed_landings_spacecraft": 2,
+                "attempted_landings_spacecraft": 181,
+                "successful_landings_payload": 0,
+                "failed_landings_payload": 0,
+                "attempted_landings_payload": 0,
+                "info_url": "https://www.nasa.gov",
+                "wiki_url": "https://en.wikipedia.org/wiki/National_Aeronautics_and_Space_Administration",
+                "social_media_links": []
+              },
+              "image": {
+                "id": 965,
+                "name": "JWST render from below",
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/jwst_pre-launch_image_20211213150440.jpeg",
+                "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305191243.jpeg",
+                "credit": "NASA",
+                "license": {
+                  "id": 4,
+                  "name": "NASA Image and Media Guidelines",
+                  "priority": 0,
+                  "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+                },
+                "single_use": false,
+                "variants": []
+              },
+              "wiki_link": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+              "info_link": "https://science.nasa.gov/mission/webb/",
+              "program": [],
+              "cost": null,
+              "mass": 6500.0,
+              "description": "The James Webb Space Telescope (JWST) is a space telescope designed to conduct infrared astronomy. It is the largest telescope in space, and is equipped with high-resolution and high-sensitivity instruments, allowing it to view objects too old, distant, or faint for the Hubble Space Telescope. This enables investigations across many fields of astronomy and cosmology, such as observation of the first stars and the formation of the first galaxies, and detailed atmospheric characterization of potentially habitable exoplanets."
+            },
+            "landing": null,
+            "docking_events": []
+          }
+        ]
+      },
+      "mission": {
+        "id": 1422,
+        "name": "James Webb Space Telescope (JWST)",
+        "type": "Astrophysics",
+        "description": "The James Webb Space Telescope is a space telescope developed by NASA, ESA and CSA to succeed the Hubble Space Telescope as NASA's flagship astrophysics mission.  Its primary mirror, the Optical Telescope Element, is composed of 18 hexagonal mirror segments which combine to create a 6.5 m diameter mirror, considerably larger than Hubble's 2.4 m mirror. This will allow JWST to provide improved infrared resolution and sensitivity over Hubble, and will enable a broad range of investigations across the fields of astronomy and cosmology, including observing some of the most distant events and objects in the universe, such as the formation of the first galaxies.",
+        "image": null,
+        "orbit": {
+          "id": 16,
+          "name": "Sun-Earth L2",
+          "abbrev": "L2",
+          "celestial_body": {
+            "response_mode": "list",
+            "id": 1,
+            "name": "Earth"
+          }
+        },
+        "agencies": [],
+        "info_urls": [],
+        "vid_urls": []
+      },
+      "pad": {
+        "id": 77,
+        "url": "https://ll.thespacedevs.com/2.3.0/pads/77/",
+        "active": false,
+        "agencies": [
+          {
+            "response_mode": "normal",
+            "id": 115,
+            "url": "https://ll.thespacedevs.com/2.3.0/agencies/115/",
+            "name": "Arianespace",
+            "abbrev": "ASA",
+            "type": {
+              "id": 3,
+              "name": "Commercial"
+            },
+            "featured": true,
+            "country": [
+              {
+                "id": 1,
+                "name": "France",
+                "alpha_2_code": "FR",
+                "alpha_3_code": "FRA",
+                "nationality_name": "French",
+                "nationality_name_composed": "Franco"
+              }
+            ],
+            "description": "Arianespace SA is a multinational company founded in 1980 as the world's first commercial launch service provider. It undertakes the production, operation, and marketing of the Ariane programme. Their vehicles launch exclusively from French Guiana in South America.",
+            "administrator": "CEO: David Cavaillolès",
+            "founding_year": 1980,
+            "launchers": "Ariane | Vega",
+            "spacecraft": "",
+            "parent": "ArianeGroup",
+            "image": {
+              "id": 2694,
+              "name": "Ariane 64 liftoff (LE-01)",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_20260213070745.jpg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_64_lifto_image_thumbnail_20260213070746.jpeg",
+              "credit": "ESA/CNES/Arianespace/ArianeGroup/Optique video du CSG–P. Piron",
+              "license": {
+                "id": 2,
+                "name": "ESA Standard Licence",
+                "priority": 2,
+                "link": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
+              },
+              "single_use": false,
+              "variants": []
+            },
+            "logo": {
+              "id": 108,
+              "name": "Arianespace blue logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_logo_20210603173752.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184909.png",
+              "credit": "Arianespace",
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": [
+                {
+                  "id": 11,
+                  "type": {
+                    "id": 1,
+                    "name": "transparent for light background"
+                  },
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/arianespace_log_image_20250211184850.png"
+                },
+                {
+                  "id": 12,
+                  "type": {
+                    "id": 2,
+                    "name": "transparent for dark background"
+                  },
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/image_variants/arianespace_log_image_20250211184853.png"
+                }
+              ]
+            },
+            "social_logo": {
+              "id": 39,
+              "name": "Arianespace social logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/arianespace_nation_20230530190314.jpg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184728.jpeg",
+              "credit": "Arianespace",
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            }
+          }
+        ],
+        "name": "Ariane Launch Area 3",
+        "image": {
+          "id": 1979,
+          "name": "Ariane 5 ECA+ on ELA-3 by night (JWST)",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ela-3_image_20240310184138.jpeg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ela-3_image_thumbnail_20240310184140.jpeg",
+          "credit": "NASA/Bill Ingalls",
+          "license": {
+            "id": 4,
+            "name": "NASA Image and Media Guidelines",
+            "priority": 0,
+            "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "description": "ELA-3, is a launch pad and associated facilities at the Centre Spatial Guyanais in French Guiana. ELA-3 was operated by Arianespace as part of the expendable launch system for Ariane 5 launch vehicles.",
+        "info_url": null,
+        "wiki_url": "https://en.wikipedia.org/wiki/ELA-3",
+        "map_url": "https://www.google.com/maps?q=5.239,-52.768",
+        "latitude": 5.239,
+        "longitude": -52.768,
+        "country": {
+          "id": 50,
+          "name": "French Guiana",
+          "alpha_2_code": "GF",
+          "alpha_3_code": "GUF",
+          "nationality_name": "French Guianan",
+          "nationality_name_composed": "Franco-Guiano"
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_77_20200803143458.jpg",
+        "total_launch_count": 118,
+        "orbital_launch_attempt_count": 118,
+        "fastest_turnaround": "P17DT20H35M26S",
+        "location": {
+          "response_mode": "normal",
+          "id": 13,
+          "url": "https://ll.thespacedevs.com/2.3.0/locations/13/",
+          "name": "Guiana Space Centre, French Guiana",
+          "celestial_body": {
+            "response_mode": "normal",
+            "id": 1,
+            "name": "Earth",
+            "type": {
+              "id": 1,
+              "name": "Planet"
+            },
+            "diameter": 12742000.0,
+            "mass": 5.972168e+24,
+            "gravity": 9.80655,
+            "length_of_day": "1 00:00:00",
+            "atmosphere": true,
+            "image": {
+              "id": 2040,
+              "name": "Earth (Apollo 17)",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+              "credit": "NASA",
+              "license": {
+                "id": 4,
+                "name": "NASA Image and Media Guidelines",
+                "priority": 0,
+                "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+            "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+            "total_attempted_launches": 7507,
+            "successful_launches": 6951,
+            "failed_launches": 556,
+            "total_attempted_landings": 1307,
+            "successful_landings": 1260,
+            "failed_landings": 47
+          },
+          "active": true,
+          "country": {
+            "id": 50,
+            "name": "French Guiana",
+            "alpha_2_code": "GF",
+            "alpha_3_code": "GUF",
+            "nationality_name": "French Guianan",
+            "nationality_name_composed": "Franco-Guiano"
+          },
+          "description": "The Guiana Space Centre is a European spaceport to the northwest of Kourou in French Guiana, a region of France in South America. Kourou is located at a latitude of 5°. In operation since 1968, it is a suitable location for a spaceport because of its equatorial location and open sea to the east.",
+          "image": {
+            "id": 2203,
+            "name": "Vega & Ariane 5 pads at the Guiana Space Centre",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega_2526_aria_image_20240918154413.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega_2526_aria_image_thumbnail_20240918154414.jpeg",
+            "credit": "ESA/S. Corvaja",
+            "license": {
+              "id": 2,
+              "name": "ESA Standard Licence",
+              "priority": 2,
+              "link": "https://www.esa.int/ESA_Multimedia/Terms_and_conditions_of_use_of_images_and_videos_available_on_the_esa_website"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_13_20200803142412.jpg",
+          "longitude": -52.6903,
+          "latitude": 5.169,
+          "timezone_name": "America/Cayenne",
+          "total_launch_count": 332,
+          "total_landing_count": 0
+        }
+      },
+      "webcast_live": false,
+      "program": [
+        {
+          "response_mode": "normal",
+          "id": 36,
+          "url": "https://ll.thespacedevs.com/2.3.0/programs/36/",
+          "name": "NASA Large Strategic Science Missions",
+          "image": {
+            "id": 1871,
+            "name": "[AUTO] NASA Large Strategic Science Missions - image",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/nasa2520large_program_20240205122003.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194008.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "info_url": null,
+          "wiki_url": "https://en.wikipedia.org/wiki/Large_strategic_science_missions",
+          "description": "NASA's large strategic science missions or large strategic missions, formerly known as Flagship missions or Flagship-class missions, are the costliest and most capable NASA science spacecraft. Flagship missions exist within all four divisions of NASA's Science Mission Directorate (SMD): the astrophysics, Earth science, heliophysics and planetary science divisions.",
+          "agencies": [
+            {
+              "response_mode": "list",
+              "id": 44,
+              "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+              "name": "National Aeronautics and Space Administration",
+              "abbrev": "NASA",
+              "type": {
+                "id": 1,
+                "name": "Government"
+              }
+            }
+          ],
+          "start_date": "1975-08-22T00:00:00Z",
+          "end_date": null,
+          "mission_patches": [],
+          "type": {
+            "id": 5,
+            "name": "Exploration"
+          }
+        }
+      ],
+      "orbital_launch_attempt_count": 6176,
+      "location_launch_attempt_count": 311,
+      "pad_launch_attempt_count": 113,
+      "agency_launch_attempt_count": 306,
+      "orbital_launch_attempt_count_year": 139,
+      "location_launch_attempt_count_year": 7,
+      "pad_launch_attempt_count_year": 3,
+      "agency_launch_attempt_count_year": 14,
+      "flightclub_url": null,
+      "updates": [
+        {
+          "id": 1114,
+          "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/swgustav_profile_20210218062738.jpg",
+          "comment": "Successful launch confirmed",
+          "info_url": "https://twitter.com/NASA/status/1474725649927581698",
+          "created_by": "SwGustav",
+          "created_on": "2021-12-25T12:58:31Z"
+        },
+        {
+          "id": 1097,
+          "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/swgustav_profile_20210218062738.jpg",
+          "comment": "Delaying by 24 hours due to adverse weather forecast",
+          "info_url": "https://twitter.com/Arianespace/status/1473406135185154053",
+          "created_by": "SwGustav",
+          "created_on": "2021-12-21T21:37:17Z"
+        },
+        {
+          "id": 1081,
+          "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/jay2520keegan_profile_20221218022555.jpg",
+          "comment": "Go for launch.",
+          "info_url": "https://jwst.nasa.gov/content/about/launch.html",
+          "created_by": "Jay",
+          "created_on": "2021-12-17T22:18:45Z"
+        },
+        {
+          "id": 1073,
+          "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+          "comment": "New NET date.",
+          "info_url": "https://twitter.com/nasa/status/1470906003168411657?s=21",
+          "created_by": "Cosmic_Penguin",
+          "created_on": "2021-12-15T00:25:39Z"
+        },
+        {
+          "id": 1020,
+          "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/cosmic2520penguin_profile_20210817212020.png",
+          "comment": "New launch date confirmed after additional spacecraft testing.",
+          "info_url": "https://twitter.com/nasawebb/status/1463664164660994048?s=21",
+          "created_by": "Cosmic_Penguin",
+          "created_on": "2021-11-25T00:56:35Z"
+        },
+        {
+          "id": 1010,
+          "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
+          "comment": "Delayed by four days due to a processing incident.",
+          "info_url": "https://twitter.com/cbs_spacenews/status/1462895991753953296",
+          "created_by": "Nosu",
+          "created_on": "2021-11-22T21:37:57Z"
+        },
+        {
+          "id": 878,
+          "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
+          "comment": "Adding launch window",
+          "info_url": "https://twitter.com/jeff_foust/status/1448341526598193154?t=nOYB6aMN5-Q9OifNA0ZuMw",
+          "created_by": "Nosu",
+          "created_on": "2021-10-13T20:09:44Z"
+        },
+        {
+          "id": 556,
+          "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/arnaud2520muller_profile_20230607144351.jpg",
+          "comment": "JWST launch now TBD November.",
+          "info_url": "https://spacenews.com/jwst-launch-slips-to-november/",
+          "created_by": "Nosu",
+          "created_on": "2021-06-02T12:20:55Z"
+        },
+        {
+          "id": 805,
+          "profile_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/profile_images/spacevogel_profile_20210217192809.jpg",
+          "comment": "Targeted launch date announced",
+          "info_url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Targeted_launch_date_for_Webb_18_December_2021",
+          "created_by": "spacevogel",
+          "created_on": "2021-09-08T13:22:56Z"
+        }
+      ],
+      "info_urls": [
+        {
+          "priority": 10,
+          "source": null,
+          "title": "James Webb Space Telescope",
+          "description": "NASA's James Webb Space Telescope (JWST), developed in partnership with ESA and CSA, is operated by AURA's Space Telescope Science Institute.",
+          "feature_image": null,
+          "url": "https://www.stsci.edu/jwst/",
+          "type": null,
+          "language": null
+        }
+      ],
+      "vid_urls": [
+        {
+          "priority": 8,
+          "source": "youtube.com",
+          "publisher": "The Space Devs",
+          "title": "Ariane 5 JWST",
+          "description": "Ariane 5 JWST with initial coverage and post coverage cut\nThumbnail Photo Credit: ESA/CNES/Arianespace/Optique Vidéo du CSG - JM Guillon\nVideo Credit: NASA / Arianespace / ESA",
+          "feature_image": "https://i.ytimg.com/vi/cCSZD0xa6qU/maxresdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=cCSZD0xa6qU",
+          "type": {
+            "id": 4,
+            "name": "Unofficial Re-stream"
+          },
+          "language": {
+            "id": 1,
+            "name": "English",
+            "code": "en"
+          },
+          "start_time": "2022-01-08T21:07:52Z",
+          "end_time": "2022-01-08T21:37:37Z",
+          "live": false
+        },
+        {
+          "priority": 9,
+          "source": "youtube.com",
+          "publisher": "NASA",
+          "title": "James Webb Space Telescope Launch — Official NASA Broadcast",
+          "description": "Watch the launch of the James Webb Space Telescope—the most powerful space telescope ever made. This mission launched at 7:20 a.m. EST (12:20 UTC), Dec. 25, 2021, aboard an Ariane 5 rocket from Europe...",
+          "feature_image": "https://i.ytimg.com/vi/7nT7JGZMbtM/maxresdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=7nT7JGZMbtM",
+          "type": {
+            "id": 1,
+            "name": "Official Webcast"
+          },
+          "language": {
+            "id": 1,
+            "name": "English",
+            "code": "en"
+          },
+          "start_time": "2021-12-25T10:58:13Z",
+          "end_time": "2021-12-25T13:15:30Z",
+          "live": false
+        },
+        {
+          "priority": 10,
+          "source": "youtube.com",
+          "publisher": "arianespace",
+          "title": "Flight VA256 – James Webb Space Telescope | Ariane 5 Launch | Arianespace",
+          "description": "Summary:\n00:00:00 Start of the livestream\n00:03:21 Launch status update\n00:05:23 Good Luck Webb\n00:06:04 Launcher’s roll-out\n00:07:02 JWST basic facts\n00:11:12 JWST science goals\n00:17:44 JWST challen...",
+          "feature_image": "https://i.ytimg.com/vi/pVzFaQAZc5M/maxresdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=pVzFaQAZc5M",
+          "type": {
+            "id": 1,
+            "name": "Official Webcast"
+          },
+          "language": {
+            "id": 1,
+            "name": "English",
+            "code": "en"
+          },
+          "start_time": "2021-12-25T10:59:42Z",
+          "end_time": "2021-12-25T13:17:07Z",
+          "live": false
+        }
+      ],
+      "timeline": [],
+      "pad_turnaround": "P62DT10H10M7S",
+      "mission_patches": [
+        {
+          "id": 74,
+          "name": "NASA ESA CSA JWST Patch",
+          "priority": 10,
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/mission_patch_images/nasa2520esa25_mission_patch_20210817075944.png",
+          "agency": {
+            "response_mode": "list",
+            "id": 44,
+            "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+            "name": "National Aeronautics and Space Administration",
+            "abbrev": "NASA",
+            "type": {
+              "id": 1,
+              "name": "Government"
+            }
+          },
+          "response_mode": "normal"
+        }
+      ]
+    }
+  ]
+}
