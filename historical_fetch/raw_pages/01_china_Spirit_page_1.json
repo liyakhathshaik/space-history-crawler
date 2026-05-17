@@ -1,0 +1,994 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "a9684903-9ff2-4b1f-8639-1cc6e6b77166",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/a9684903-9ff2-4b1f-8639-1cc6e6b77166/",
+      "name": "Delta II | Spirit Rover",
+      "response_mode": "detailed",
+      "slug": "delta-ii-spirit-rover",
+      "launch_designator": "2003-027",
+      "status": {
+        "id": 3,
+        "name": "Launch Successful",
+        "abbrev": "Success",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
+      },
+      "last_updated": "2023-06-14T17:40:19Z",
+      "net": "2003-06-10T17:58:47Z",
+      "net_precision": null,
+      "window_end": "2003-06-10T17:58:47Z",
+      "window_start": "2003-06-10T17:58:47Z",
+      "image": {
+        "id": 1718,
+        "name": "Delta II 7925-9.5 liftoff (GPS IIR-15)",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/delta_ii_7925-9_image_20240312090356.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/delta_ii_7925-9_image_thumbnail_20240312090356.jpeg",
+        "credit": "USAF",
+        "license": {
+          "id": 17,
+          "name": "Department of Defense Image Use Policy",
+          "priority": 6,
+          "link": "https://www.dimoc.mil/resources/limitations/"
+        },
+        "single_use": false,
+        "variants": []
+      },
+      "infographic": null,
+      "probability": null,
+      "weather_concerns": null,
+      "failreason": null,
+      "hashtag": null,
+      "launch_service_provider": {
+        "response_mode": "normal",
+        "id": 161,
+        "url": "https://ll.thespacedevs.com/2.3.0/agencies/161/",
+        "name": "United States Air Force",
+        "abbrev": "USAF",
+        "type": {
+          "id": 1,
+          "name": "Government"
+        },
+        "featured": false,
+        "country": [
+          {
+            "id": 2,
+            "name": "United States of America",
+            "alpha_2_code": "US",
+            "alpha_3_code": "USA",
+            "nationality_name": "American",
+            "nationality_name_composed": "Americano"
+          }
+        ],
+        "description": "The United States Air Force (USAF) is the air service branch of the United States Armed Forces, and is one of the eight uniformed services of the United States. Originally created on 1 August 1907, as a part of the United States Army Signal Corps, the USAF was established as a separate branch of the United States Armed Forces in 1947 with the enactment of the National Security Act of 1947.",
+        "administrator": "Commander-in-Chief: President of the US",
+        "founding_year": 1947,
+        "launchers": "",
+        "spacecraft": "",
+        "parent": null,
+        "image": null,
+        "logo": {
+          "id": 193,
+          "name": "[AUTO] United States Air Force - logo",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_logo_20230804084626.png",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185152.png",
+          "credit": null,
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "social_logo": {
+          "id": 99,
+          "name": "[AUTO] United States Air Force - social_logo",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_nation_20230804085132.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184855.jpeg",
+          "credit": null,
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "total_launch_count": 1078,
+        "consecutive_successful_launches": 68,
+        "successful_launches": 972,
+        "failed_launches": 106,
+        "pending_launches": 0,
+        "consecutive_successful_landings": 0,
+        "successful_landings": 0,
+        "failed_landings": 0,
+        "attempted_landings": 0,
+        "successful_landings_spacecraft": 0,
+        "failed_landings_spacecraft": 0,
+        "attempted_landings_spacecraft": 0,
+        "successful_landings_payload": 0,
+        "failed_landings_payload": 0,
+        "attempted_landings_payload": 0,
+        "info_url": "https://www.af.mil",
+        "wiki_url": "https://en.wikipedia.org/wiki/United_States_Air_Force",
+        "social_media_links": []
+      },
+      "rocket": {
+        "id": 7138,
+        "configuration": {
+          "response_mode": "detailed",
+          "id": 140,
+          "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/140/",
+          "name": "Delta II",
+          "families": [
+            {
+              "response_mode": "detailed",
+              "id": 72,
+              "name": "Delta",
+              "manufacturer": [
+                {
+                  "response_mode": "normal",
+                  "id": 80,
+                  "url": "https://ll.thespacedevs.com/2.3.0/agencies/80/",
+                  "name": "Boeing",
+                  "abbrev": "BA",
+                  "type": {
+                    "id": 3,
+                    "name": "Commercial"
+                  },
+                  "featured": false,
+                  "country": [
+                    {
+                      "id": 2,
+                      "name": "United States of America",
+                      "alpha_2_code": "US",
+                      "alpha_3_code": "USA",
+                      "nationality_name": "American",
+                      "nationality_name_composed": "Americano"
+                    }
+                  ],
+                  "description": "Boeing as a space agency has recently provided NASA with assistance on sending humans to the ISS from American with both their construction of the CST-100 Starliner crew capsule and their work on the SLS Avionics to return to the moon and beyond. Their ventures in GPS satellite systems and Tracking and Data Relay Satellites provide information about earth-orbiting craft to stations on the ground. They also enable research on the ISS and will be helping with the construction of the Lunar Gateway.",
+                  "administrator": "CEO: Kelly Ortberg",
+                  "founding_year": 1916,
+                  "launchers": "SLS",
+                  "spacecraft": "Starliner",
+                  "parent": null,
+                  "image": null,
+                  "logo": {
+                    "id": 117,
+                    "name": "[AUTO] Boeing - logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/boeing_logo_20201128183345.png",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184923.png",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "social_logo": {
+                    "id": 46,
+                    "name": "[AUTO] Boeing - social_logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/boeing_nation_20230804083022.jpg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184740.jpeg",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "total_launch_count": 2,
+                  "consecutive_successful_launches": 0,
+                  "successful_launches": 1,
+                  "failed_launches": 1,
+                  "pending_launches": 0,
+                  "consecutive_successful_landings": 0,
+                  "successful_landings": 0,
+                  "failed_landings": 0,
+                  "attempted_landings": 0,
+                  "successful_landings_spacecraft": 10,
+                  "failed_landings_spacecraft": 0,
+                  "attempted_landings_spacecraft": 10,
+                  "successful_landings_payload": 0,
+                  "failed_landings_payload": 0,
+                  "attempted_landings_payload": 0,
+                  "info_url": "https://www.boeing.com",
+                  "wiki_url": "https://en.wikipedia.org/wiki/Boeing",
+                  "social_media_links": []
+                },
+                {
+                  "response_mode": "normal",
+                  "id": 153,
+                  "url": "https://ll.thespacedevs.com/2.3.0/agencies/153/",
+                  "name": "McDonnell Douglas",
+                  "abbrev": "MDC",
+                  "type": {
+                    "id": 3,
+                    "name": "Commercial"
+                  },
+                  "featured": false,
+                  "country": [
+                    {
+                      "id": 2,
+                      "name": "United States of America",
+                      "alpha_2_code": "US",
+                      "alpha_3_code": "USA",
+                      "nationality_name": "American",
+                      "nationality_name_composed": "Americano"
+                    }
+                  ],
+                  "description": null,
+                  "administrator": null,
+                  "founding_year": null,
+                  "launchers": "",
+                  "spacecraft": "",
+                  "parent": null,
+                  "image": null,
+                  "logo": null,
+                  "social_logo": null,
+                  "total_launch_count": 0,
+                  "consecutive_successful_launches": 0,
+                  "successful_launches": 0,
+                  "failed_launches": 0,
+                  "pending_launches": 0,
+                  "consecutive_successful_landings": 0,
+                  "successful_landings": 0,
+                  "failed_landings": 0,
+                  "attempted_landings": 0,
+                  "successful_landings_spacecraft": 0,
+                  "failed_landings_spacecraft": 0,
+                  "attempted_landings_spacecraft": 0,
+                  "successful_landings_payload": 0,
+                  "failed_landings_payload": 0,
+                  "attempted_landings_payload": 0,
+                  "info_url": null,
+                  "wiki_url": "https://en.wikipedia.org/wiki/McDonnell_Douglas",
+                  "social_media_links": []
+                },
+                {
+                  "response_mode": "normal",
+                  "id": 124,
+                  "url": "https://ll.thespacedevs.com/2.3.0/agencies/124/",
+                  "name": "United Launch Alliance",
+                  "abbrev": "ULA",
+                  "type": {
+                    "id": 3,
+                    "name": "Commercial"
+                  },
+                  "featured": true,
+                  "country": [
+                    {
+                      "id": 2,
+                      "name": "United States of America",
+                      "alpha_2_code": "US",
+                      "alpha_3_code": "USA",
+                      "nationality_name": "American",
+                      "nationality_name_composed": "Americano"
+                    }
+                  ],
+                  "description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
+                  "administrator": "Interim CEO: John Elbon",
+                  "founding_year": 2006,
+                  "launchers": "Atlas | Delta | Vulcan",
+                  "spacecraft": "",
+                  "parent": null,
+                  "image": {
+                    "id": 30,
+                    "name": "[AUTO] United Launch Alliance - image",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_launch_a_image_20210412201210.png",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184706.png",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "logo": {
+                    "id": 191,
+                    "name": "[AUTO] United Launch Alliance - logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185148.png",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "social_logo": {
+                    "id": 97,
+                    "name": "[AUTO] United Launch Alliance - social_logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_nation_20230531043703.jpg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184852.jpeg",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "total_launch_count": 173,
+                  "consecutive_successful_launches": 173,
+                  "successful_launches": 173,
+                  "failed_launches": 0,
+                  "pending_launches": 38,
+                  "consecutive_successful_landings": 0,
+                  "successful_landings": 0,
+                  "failed_landings": 0,
+                  "attempted_landings": 0,
+                  "successful_landings_spacecraft": 0,
+                  "failed_landings_spacecraft": 0,
+                  "attempted_landings_spacecraft": 0,
+                  "successful_landings_payload": 0,
+                  "failed_landings_payload": 0,
+                  "attempted_landings_payload": 0,
+                  "info_url": "https://www.ulalaunch.com/",
+                  "wiki_url": "https://en.wikipedia.org/wiki/United_Launch_Alliance",
+                  "social_media_links": []
+                }
+              ],
+              "parent": null,
+              "description": "",
+              "active": false,
+              "maiden_flight": "1972-07-23",
+              "total_launch_count": 301,
+              "consecutive_successful_launches": 79,
+              "successful_launches": 290,
+              "failed_launches": 11,
+              "pending_launches": 0,
+              "attempted_landings": 0,
+              "successful_landings": 0,
+              "failed_landings": 0,
+              "consecutive_successful_landings": 0
+            },
+            {
+              "response_mode": "detailed",
+              "id": 177,
+              "name": "Delta II",
+              "manufacturer": [
+                {
+                  "response_mode": "normal",
+                  "id": 153,
+                  "url": "https://ll.thespacedevs.com/2.3.0/agencies/153/",
+                  "name": "McDonnell Douglas",
+                  "abbrev": "MDC",
+                  "type": {
+                    "id": 3,
+                    "name": "Commercial"
+                  },
+                  "featured": false,
+                  "country": [
+                    {
+                      "id": 2,
+                      "name": "United States of America",
+                      "alpha_2_code": "US",
+                      "alpha_3_code": "USA",
+                      "nationality_name": "American",
+                      "nationality_name_composed": "Americano"
+                    }
+                  ],
+                  "description": null,
+                  "administrator": null,
+                  "founding_year": null,
+                  "launchers": "",
+                  "spacecraft": "",
+                  "parent": null,
+                  "image": null,
+                  "logo": null,
+                  "social_logo": null,
+                  "total_launch_count": 0,
+                  "consecutive_successful_launches": 0,
+                  "successful_launches": 0,
+                  "failed_launches": 0,
+                  "pending_launches": 0,
+                  "consecutive_successful_landings": 0,
+                  "successful_landings": 0,
+                  "failed_landings": 0,
+                  "attempted_landings": 0,
+                  "successful_landings_spacecraft": 0,
+                  "failed_landings_spacecraft": 0,
+                  "attempted_landings_spacecraft": 0,
+                  "successful_landings_payload": 0,
+                  "failed_landings_payload": 0,
+                  "attempted_landings_payload": 0,
+                  "info_url": null,
+                  "wiki_url": "https://en.wikipedia.org/wiki/McDonnell_Douglas",
+                  "social_media_links": []
+                },
+                {
+                  "response_mode": "normal",
+                  "id": 124,
+                  "url": "https://ll.thespacedevs.com/2.3.0/agencies/124/",
+                  "name": "United Launch Alliance",
+                  "abbrev": "ULA",
+                  "type": {
+                    "id": 3,
+                    "name": "Commercial"
+                  },
+                  "featured": true,
+                  "country": [
+                    {
+                      "id": 2,
+                      "name": "United States of America",
+                      "alpha_2_code": "US",
+                      "alpha_3_code": "USA",
+                      "nationality_name": "American",
+                      "nationality_name_composed": "Americano"
+                    }
+                  ],
+                  "description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
+                  "administrator": "Interim CEO: John Elbon",
+                  "founding_year": 2006,
+                  "launchers": "Atlas | Delta | Vulcan",
+                  "spacecraft": "",
+                  "parent": null,
+                  "image": {
+                    "id": 30,
+                    "name": "[AUTO] United Launch Alliance - image",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_launch_a_image_20210412201210.png",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184706.png",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "logo": {
+                    "id": 191,
+                    "name": "[AUTO] United Launch Alliance - logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185148.png",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "social_logo": {
+                    "id": 97,
+                    "name": "[AUTO] United Launch Alliance - social_logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_nation_20230531043703.jpg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184852.jpeg",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "total_launch_count": 173,
+                  "consecutive_successful_launches": 173,
+                  "successful_launches": 173,
+                  "failed_launches": 0,
+                  "pending_launches": 38,
+                  "consecutive_successful_landings": 0,
+                  "successful_landings": 0,
+                  "failed_landings": 0,
+                  "attempted_landings": 0,
+                  "successful_landings_spacecraft": 0,
+                  "failed_landings_spacecraft": 0,
+                  "attempted_landings_spacecraft": 0,
+                  "successful_landings_payload": 0,
+                  "failed_landings_payload": 0,
+                  "attempted_landings_payload": 0,
+                  "info_url": "https://www.ulalaunch.com/",
+                  "wiki_url": "https://en.wikipedia.org/wiki/United_Launch_Alliance",
+                  "social_media_links": []
+                }
+              ],
+              "parent": {
+                "response_mode": "normal",
+                "id": 72,
+                "name": "Delta",
+                "manufacturer": [
+                  {
+                    "response_mode": "normal",
+                    "id": 80,
+                    "url": "https://ll.thespacedevs.com/2.3.0/agencies/80/",
+                    "name": "Boeing",
+                    "abbrev": "BA",
+                    "type": {
+                      "id": 3,
+                      "name": "Commercial"
+                    },
+                    "featured": false,
+                    "country": [
+                      {
+                        "id": 2,
+                        "name": "United States of America",
+                        "alpha_2_code": "US",
+                        "alpha_3_code": "USA",
+                        "nationality_name": "American",
+                        "nationality_name_composed": "Americano"
+                      }
+                    ],
+                    "description": "Boeing as a space agency has recently provided NASA with assistance on sending humans to the ISS from American with both their construction of the CST-100 Starliner crew capsule and their work on the SLS Avionics to return to the moon and beyond. Their ventures in GPS satellite systems and Tracking and Data Relay Satellites provide information about earth-orbiting craft to stations on the ground. They also enable research on the ISS and will be helping with the construction of the Lunar Gateway.",
+                    "administrator": "CEO: Kelly Ortberg",
+                    "founding_year": 1916,
+                    "launchers": "SLS",
+                    "spacecraft": "Starliner",
+                    "parent": null,
+                    "image": null,
+                    "logo": {
+                      "id": 117,
+                      "name": "[AUTO] Boeing - logo",
+                      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/boeing_logo_20201128183345.png",
+                      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184923.png",
+                      "credit": null,
+                      "license": {
+                        "id": 1,
+                        "name": "Unknown",
+                        "priority": 9,
+                        "link": null
+                      },
+                      "single_use": true,
+                      "variants": []
+                    },
+                    "social_logo": {
+                      "id": 46,
+                      "name": "[AUTO] Boeing - social_logo",
+                      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/boeing_nation_20230804083022.jpg",
+                      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184740.jpeg",
+                      "credit": null,
+                      "license": {
+                        "id": 1,
+                        "name": "Unknown",
+                        "priority": 9,
+                        "link": null
+                      },
+                      "single_use": true,
+                      "variants": []
+                    }
+                  },
+                  {
+                    "response_mode": "normal",
+                    "id": 153,
+                    "url": "https://ll.thespacedevs.com/2.3.0/agencies/153/",
+                    "name": "McDonnell Douglas",
+                    "abbrev": "MDC",
+                    "type": {
+                      "id": 3,
+                      "name": "Commercial"
+                    },
+                    "featured": false,
+                    "country": [
+                      {
+                        "id": 2,
+                        "name": "United States of America",
+                        "alpha_2_code": "US",
+                        "alpha_3_code": "USA",
+                        "nationality_name": "American",
+                        "nationality_name_composed": "Americano"
+                      }
+                    ],
+                    "description": null,
+                    "administrator": null,
+                    "founding_year": null,
+                    "launchers": "",
+                    "spacecraft": "",
+                    "parent": null,
+                    "image": null,
+                    "logo": null,
+                    "social_logo": null
+                  },
+                  {
+                    "response_mode": "normal",
+                    "id": 124,
+                    "url": "https://ll.thespacedevs.com/2.3.0/agencies/124/",
+                    "name": "United Launch Alliance",
+                    "abbrev": "ULA",
+                    "type": {
+                      "id": 3,
+                      "name": "Commercial"
+                    },
+                    "featured": true,
+                    "country": [
+                      {
+                        "id": 2,
+                        "name": "United States of America",
+                        "alpha_2_code": "US",
+                        "alpha_3_code": "USA",
+                        "nationality_name": "American",
+                        "nationality_name_composed": "Americano"
+                      }
+                    ],
+                    "description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
+                    "administrator": "Interim CEO: John Elbon",
+                    "founding_year": 2006,
+                    "launchers": "Atlas | Delta | Vulcan",
+                    "spacecraft": "",
+                    "parent": null,
+                    "image": {
+                      "id": 30,
+                      "name": "[AUTO] United Launch Alliance - image",
+                      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_launch_a_image_20210412201210.png",
+                      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184706.png",
+                      "credit": null,
+                      "license": {
+                        "id": 1,
+                        "name": "Unknown",
+                        "priority": 9,
+                        "link": null
+                      },
+                      "single_use": true,
+                      "variants": []
+                    },
+                    "logo": {
+                      "id": 191,
+                      "name": "[AUTO] United Launch Alliance - logo",
+                      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
+                      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185148.png",
+                      "credit": null,
+                      "license": {
+                        "id": 1,
+                        "name": "Unknown",
+                        "priority": 9,
+                        "link": null
+                      },
+                      "single_use": true,
+                      "variants": []
+                    },
+                    "social_logo": {
+                      "id": 97,
+                      "name": "[AUTO] United Launch Alliance - social_logo",
+                      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_nation_20230531043703.jpg",
+                      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184852.jpeg",
+                      "credit": null,
+                      "license": {
+                        "id": 1,
+                        "name": "Unknown",
+                        "priority": 9,
+                        "link": null
+                      },
+                      "single_use": true,
+                      "variants": []
+                    }
+                  }
+                ],
+                "parent": null
+              },
+              "description": "",
+              "active": false,
+              "maiden_flight": "1990-11-26",
+              "total_launch_count": 155,
+              "consecutive_successful_launches": 100,
+              "successful_launches": 153,
+              "failed_launches": 2,
+              "pending_launches": 0,
+              "attempted_landings": 0,
+              "successful_landings": 0,
+              "failed_landings": 0,
+              "consecutive_successful_landings": 0
+            }
+          ],
+          "full_name": "Delta II 7925-9.5",
+          "variant": "7925-9.5",
+          "active": false,
+          "is_placeholder": false,
+          "manufacturer": {
+            "response_mode": "normal",
+            "id": 124,
+            "url": "https://ll.thespacedevs.com/2.3.0/agencies/124/",
+            "name": "United Launch Alliance",
+            "abbrev": "ULA",
+            "type": {
+              "id": 3,
+              "name": "Commercial"
+            },
+            "featured": true,
+            "country": [
+              {
+                "id": 2,
+                "name": "United States of America",
+                "alpha_2_code": "US",
+                "alpha_3_code": "USA",
+                "nationality_name": "American",
+                "nationality_name_composed": "Americano"
+              }
+            ],
+            "description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
+            "administrator": "Interim CEO: John Elbon",
+            "founding_year": 2006,
+            "launchers": "Atlas | Delta | Vulcan",
+            "spacecraft": "",
+            "parent": null,
+            "image": {
+              "id": 30,
+              "name": "[AUTO] United Launch Alliance - image",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_launch_a_image_20210412201210.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184706.png",
+              "credit": null,
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "logo": {
+              "id": 191,
+              "name": "[AUTO] United Launch Alliance - logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185148.png",
+              "credit": null,
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "social_logo": {
+              "id": 97,
+              "name": "[AUTO] United Launch Alliance - social_logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_nation_20230531043703.jpg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184852.jpeg",
+              "credit": null,
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "total_launch_count": 173,
+            "consecutive_successful_launches": 173,
+            "successful_launches": 173,
+            "failed_launches": 0,
+            "pending_launches": 38,
+            "consecutive_successful_landings": 0,
+            "successful_landings": 0,
+            "failed_landings": 0,
+            "attempted_landings": 0,
+            "successful_landings_spacecraft": 0,
+            "failed_landings_spacecraft": 0,
+            "attempted_landings_spacecraft": 0,
+            "successful_landings_payload": 0,
+            "failed_landings_payload": 0,
+            "attempted_landings_payload": 0,
+            "info_url": "https://www.ulalaunch.com/",
+            "wiki_url": "https://en.wikipedia.org/wiki/United_Launch_Alliance",
+            "social_media_links": []
+          },
+          "program": [],
+          "reusable": false,
+          "image": {
+            "id": 1718,
+            "name": "Delta II 7925-9.5 liftoff (GPS IIR-15)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/delta_ii_7925-9_image_20240312090356.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/delta_ii_7925-9_image_thumbnail_20240312090356.jpeg",
+            "credit": "USAF",
+            "license": {
+              "id": 17,
+              "name": "Department of Defense Image Use Policy",
+              "priority": 6,
+              "link": "https://www.dimoc.mil/resources/limitations/"
+            },
+            "single_use": false,
+            "variants": []
+          },
+          "info_url": "https://www.spacelaunchreport.com/delta2.html#config",
+          "wiki_url": "https://en.wikipedia.org/wiki/Delta_II",
+          "description": "Delta II is an American space launch system developed by McDonnell Douglas, now part of the Delta rocket family operated by United Launch Alliance. With more than 150 missions and a nearly perfect track record, Delta II has established itself as one of the most successful orbital launch systems.",
+          "alias": "",
+          "min_stage": 3,
+          "max_stage": 3,
+          "length": 38.9,
+          "diameter": 2.4,
+          "maiden_flight": "1998-01-10",
+          "launch_cost": 51000000,
+          "launch_mass": 232.0,
+          "leo_capacity": null,
+          "gto_capacity": 1840.0,
+          "geo_capacity": null,
+          "sso_capacity": null,
+          "to_thrust": null,
+          "apogee": null,
+          "total_launch_count": 26,
+          "consecutive_successful_launches": 26,
+          "successful_launches": 26,
+          "failed_launches": 0,
+          "pending_launches": 0,
+          "attempted_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "consecutive_successful_landings": 0,
+          "fastest_turnaround": "P41DT2H42M39S"
+        },
+        "launcher_stage": [],
+        "spacecraft_stage": [],
+        "payloads": []
+      },
+      "mission": {
+        "id": 5527,
+        "name": "Spirit Rover",
+        "type": "Planetary Science",
+        "description": "Spirit, also known as MER-A, is a robotic rover on Mars, active from 2004 to 2010.  It landed successfully within the impact crater Gusev on Mars at 04:35 Ground UTC on January 4, 2004, three weeks before its twin, Opportunity (MER-B), which landed on the other side of the planet. The rover became stuck in a \"sand trap\" in late 2009 at an angle that hampered recharging of its batteries; its last communication with Earth was sent on March 22, 2010.",
+        "image": null,
+        "orbit": {
+          "id": 19,
+          "name": "Mars Orbit",
+          "abbrev": "Mars",
+          "celestial_body": {
+            "response_mode": "list",
+            "id": 1,
+            "name": "Earth"
+          }
+        },
+        "agencies": [],
+        "info_urls": [],
+        "vid_urls": []
+      },
+      "pad": {
+        "id": 14,
+        "url": "https://ll.thespacedevs.com/2.3.0/pads/14/",
+        "active": true,
+        "agencies": [],
+        "name": "Space Launch Complex 17A",
+        "image": {
+          "id": 2246,
+          "name": "Delta II liftoff from SLC-17A (Swift)",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/delta_ii_liftof_image_20240922114900.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/delta_ii_liftof_image_thumbnail_20240922114900.jpeg",
+          "credit": "NASA/KSC",
+          "license": {
+            "id": 4,
+            "name": "NASA Image and Media Guidelines",
+            "priority": 0,
+            "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+          },
+          "single_use": false,
+          "variants": []
+        },
+        "description": "",
+        "info_url": null,
+        "wiki_url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Space_Launch_Complex_17",
+        "map_url": "https://www.google.com/maps?q=28.4472,-80.565",
+        "latitude": 28.4472,
+        "longitude": -80.565,
+        "country": {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_14_20200803143451.jpg",
+        "total_launch_count": 145,
+        "orbital_launch_attempt_count": 145,
+        "fastest_turnaround": "P14DT5H46M",
+        "location": {
+          "response_mode": "normal",
+          "id": 12,
+          "url": "https://ll.thespacedevs.com/2.3.0/locations/12/",
+          "name": "Cape Canaveral SFS, FL, USA",
+          "celestial_body": {
+            "response_mode": "normal",
+            "id": 1,
+            "name": "Earth",
+            "type": {
+              "id": 1,
+              "name": "Planet"
+            },
+            "diameter": 12742000.0,
+            "mass": 5.972168e+24,
+            "gravity": 9.80655,
+            "length_of_day": "1 00:00:00",
+            "atmosphere": true,
+            "image": {
+              "id": 2040,
+              "name": "Earth (Apollo 17)",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+              "credit": "NASA",
+              "license": {
+                "id": 4,
+                "name": "NASA Image and Media Guidelines",
+                "priority": 0,
+                "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+            "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+            "total_attempted_launches": 7507,
+            "successful_launches": 6951,
+            "failed_launches": 556,
+            "total_attempted_landings": 1307,
+            "successful_landings": 1260,
+            "failed_landings": 47
+          },
+          "active": true,
+          "country": {
+            "id": 2,
+            "name": "United States of America",
+            "alpha_2_code": "US",
+            "alpha_3_code": "USA",
+            "nationality_name": "American",
+            "nationality_name_composed": "Americano"
+          },
+          "description": "Cape Canaveral Space Force Station (CCSFS) is an installation of the United States Space Force's Space Launch Delta 45, located on Cape Canaveral in Brevard County, Florida.",
+          "image": {
+            "id": 2200,
+            "name": "Cape Canaveral & KSC seen from orbit (STS-43)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_20240918151615.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_thumbnail_20240918151616.jpeg",
+            "credit": "NASA",
+            "license": {
+              "id": 4,
+              "name": "NASA Image and Media Guidelines",
+              "priority": 0,
+              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_12_20200803142519.jpg",
+          "longitude": -80.577778,
+          "latitude": 28.488889,
+          "timezone_name": "America/New_York",
+          "total_launch_count": 1107,
+          "total_landing_count": 75
+        }
+      },
+      "webcast_live": false,
+      "program": [],
+      "orbital_launch_attempt_count": 4603,
+      "location_launch_attempt_count": 611,
+      "pad_launch_attempt_count": 133,
+      "agency_launch_attempt_count": 1051,
+      "orbital_launch_attempt_count_year": 27,
+      "location_launch_attempt_count_year": 7,
+      "pad_launch_attempt_count_year": 2,
+      "agency_launch_attempt_count_year": 7,
+      "flightclub_url": null,
+      "updates": [],
+      "info_urls": [],
+      "vid_urls": [],
+      "timeline": [],
+      "pad_turnaround": "P70DT19H49M46S",
+      "mission_patches": []
+    }
+  ]
+}
