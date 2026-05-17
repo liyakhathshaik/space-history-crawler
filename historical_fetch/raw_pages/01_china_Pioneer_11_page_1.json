@@ -1,0 +1,771 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "7d7b6f9c-4e6f-40f5-8b53-2430282f9b81",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/7d7b6f9c-4e6f-40f5-8b53-2430282f9b81/",
+      "name": "Atlas SLV-3D Centaur | Pioneer 11",
+      "response_mode": "detailed",
+      "slug": "atlas-slv-3d-centaur-pioneer-11",
+      "launch_designator": "1973-019",
+      "status": {
+        "id": 3,
+        "name": "Launch Successful",
+        "abbrev": "Success",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
+      },
+      "last_updated": "2023-06-14T17:39:55Z",
+      "net": "1973-04-06T02:11:00Z",
+      "net_precision": null,
+      "window_end": "1973-04-06T02:11:00Z",
+      "window_start": "1973-04-06T02:11:00Z",
+      "image": {
+        "id": 2523,
+        "name": "Atlas SLV-3D liftoff (Pioneer 11)",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_slv-3d_li_image_20251103141732.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_slv-3d_li_image_thumbnail_20251103141732.jpeg",
+        "credit": "NASA Marshall Space Flight Center",
+        "license": {
+          "id": 4,
+          "name": "NASA Image and Media Guidelines",
+          "priority": 0,
+          "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "infographic": null,
+      "probability": null,
+      "weather_concerns": null,
+      "failreason": null,
+      "hashtag": null,
+      "launch_service_provider": {
+        "response_mode": "normal",
+        "id": 161,
+        "url": "https://ll.thespacedevs.com/2.3.0/agencies/161/",
+        "name": "United States Air Force",
+        "abbrev": "USAF",
+        "type": {
+          "id": 1,
+          "name": "Government"
+        },
+        "featured": false,
+        "country": [
+          {
+            "id": 2,
+            "name": "United States of America",
+            "alpha_2_code": "US",
+            "alpha_3_code": "USA",
+            "nationality_name": "American",
+            "nationality_name_composed": "Americano"
+          }
+        ],
+        "description": "The United States Air Force (USAF) is the air service branch of the United States Armed Forces, and is one of the eight uniformed services of the United States. Originally created on 1 August 1907, as a part of the United States Army Signal Corps, the USAF was established as a separate branch of the United States Armed Forces in 1947 with the enactment of the National Security Act of 1947.",
+        "administrator": "Commander-in-Chief: President of the US",
+        "founding_year": 1947,
+        "launchers": "",
+        "spacecraft": "",
+        "parent": null,
+        "image": null,
+        "logo": {
+          "id": 193,
+          "name": "[AUTO] United States Air Force - logo",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_logo_20230804084626.png",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185152.png",
+          "credit": null,
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "social_logo": {
+          "id": 99,
+          "name": "[AUTO] United States Air Force - social_logo",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_nation_20230804085132.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184855.jpeg",
+          "credit": null,
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "total_launch_count": 1078,
+        "consecutive_successful_launches": 68,
+        "successful_launches": 972,
+        "failed_launches": 106,
+        "pending_launches": 0,
+        "consecutive_successful_landings": 0,
+        "successful_landings": 0,
+        "failed_landings": 0,
+        "attempted_landings": 0,
+        "successful_landings_spacecraft": 0,
+        "failed_landings_spacecraft": 0,
+        "attempted_landings_spacecraft": 0,
+        "successful_landings_payload": 0,
+        "failed_landings_payload": 0,
+        "attempted_landings_payload": 0,
+        "info_url": "https://www.af.mil",
+        "wiki_url": "https://en.wikipedia.org/wiki/United_States_Air_Force",
+        "social_media_links": []
+      },
+      "rocket": {
+        "id": 4347,
+        "configuration": {
+          "response_mode": "detailed",
+          "id": 261,
+          "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/261/",
+          "name": "Atlas SLV-3D Centaur",
+          "families": [
+            {
+              "response_mode": "detailed",
+              "id": 66,
+              "name": "Atlas",
+              "manufacturer": [
+                {
+                  "response_mode": "normal",
+                  "id": 82,
+                  "url": "https://ll.thespacedevs.com/2.3.0/agencies/82/",
+                  "name": "Lockheed Martin",
+                  "abbrev": "LMT",
+                  "type": {
+                    "id": 3,
+                    "name": "Commercial"
+                  },
+                  "featured": false,
+                  "country": [
+                    {
+                      "id": 2,
+                      "name": "United States of America",
+                      "alpha_2_code": "US",
+                      "alpha_3_code": "USA",
+                      "nationality_name": "American",
+                      "nationality_name_composed": "Americano"
+                    }
+                  ],
+                  "description": "Lockheed Martin's Space Division started in the production of missiles and later ICBM's in the 1950s. Their TITAN missile system was used for 12 Gemini spacecraft and the Voyager probes.  They have worked largely in collaboration with NASA on many of their probes, landers, and spacecraft, and hope to play a key role in NASA's return to the moon in 2024.",
+                  "administrator": null,
+                  "founding_year": 1953,
+                  "launchers": "Titan | Agena",
+                  "spacecraft": "Hubble | JUNO | InSight",
+                  "parent": null,
+                  "image": null,
+                  "logo": null,
+                  "social_logo": null,
+                  "total_launch_count": 80,
+                  "consecutive_successful_launches": 38,
+                  "successful_launches": 77,
+                  "failed_launches": 3,
+                  "pending_launches": 0,
+                  "consecutive_successful_landings": 0,
+                  "successful_landings": 0,
+                  "failed_landings": 0,
+                  "attempted_landings": 0,
+                  "successful_landings_spacecraft": 0,
+                  "failed_landings_spacecraft": 0,
+                  "attempted_landings_spacecraft": 0,
+                  "successful_landings_payload": 0,
+                  "failed_landings_payload": 0,
+                  "attempted_landings_payload": 0,
+                  "info_url": "https://www.lockheedmartin.com/",
+                  "wiki_url": "https://en.wikipedia.org/wiki/Lockheed_Martin",
+                  "social_media_links": []
+                },
+                {
+                  "response_mode": "normal",
+                  "id": 124,
+                  "url": "https://ll.thespacedevs.com/2.3.0/agencies/124/",
+                  "name": "United Launch Alliance",
+                  "abbrev": "ULA",
+                  "type": {
+                    "id": 3,
+                    "name": "Commercial"
+                  },
+                  "featured": true,
+                  "country": [
+                    {
+                      "id": 2,
+                      "name": "United States of America",
+                      "alpha_2_code": "US",
+                      "alpha_3_code": "USA",
+                      "nationality_name": "American",
+                      "nationality_name_composed": "Americano"
+                    }
+                  ],
+                  "description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
+                  "administrator": "Interim CEO: John Elbon",
+                  "founding_year": 2006,
+                  "launchers": "Atlas | Delta | Vulcan",
+                  "spacecraft": "",
+                  "parent": null,
+                  "image": {
+                    "id": 30,
+                    "name": "[AUTO] United Launch Alliance - image",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_launch_a_image_20210412201210.png",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184706.png",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "logo": {
+                    "id": 191,
+                    "name": "[AUTO] United Launch Alliance - logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185148.png",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "social_logo": {
+                    "id": 97,
+                    "name": "[AUTO] United Launch Alliance - social_logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_nation_20230531043703.jpg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184852.jpeg",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "total_launch_count": 173,
+                  "consecutive_successful_launches": 173,
+                  "successful_launches": 173,
+                  "failed_launches": 0,
+                  "pending_launches": 38,
+                  "consecutive_successful_landings": 0,
+                  "successful_landings": 0,
+                  "failed_landings": 0,
+                  "attempted_landings": 0,
+                  "successful_landings_spacecraft": 0,
+                  "failed_landings_spacecraft": 0,
+                  "attempted_landings_spacecraft": 0,
+                  "successful_landings_payload": 0,
+                  "failed_landings_payload": 0,
+                  "attempted_landings_payload": 0,
+                  "info_url": "https://www.ulalaunch.com/",
+                  "wiki_url": "https://en.wikipedia.org/wiki/United_Launch_Alliance",
+                  "social_media_links": []
+                }
+              ],
+              "parent": null,
+              "description": "",
+              "active": true,
+              "maiden_flight": "1958-12-18",
+              "total_launch_count": 442,
+              "consecutive_successful_launches": 184,
+              "successful_launches": 405,
+              "failed_launches": 37,
+              "pending_launches": 8,
+              "attempted_landings": 0,
+              "successful_landings": 0,
+              "failed_landings": 0,
+              "consecutive_successful_landings": 0
+            },
+            {
+              "response_mode": "detailed",
+              "id": 188,
+              "name": "Atlas D",
+              "manufacturer": [
+                {
+                  "response_mode": "normal",
+                  "id": 1004,
+                  "url": "https://ll.thespacedevs.com/2.3.0/agencies/1004/",
+                  "name": "Convair",
+                  "abbrev": "",
+                  "type": {
+                    "id": 3,
+                    "name": "Commercial"
+                  },
+                  "featured": false,
+                  "country": [
+                    {
+                      "id": 2,
+                      "name": "United States of America",
+                      "alpha_2_code": "US",
+                      "alpha_3_code": "USA",
+                      "nationality_name": "American",
+                      "nationality_name_composed": "Americano"
+                    }
+                  ],
+                  "description": "Convair, previously Consolidated Vultee, was an American aircraft manufacturing company that later expanded into rockets and spacecraft. The company was formed in 1943 by the merger of Consolidated Aircraft and Vultee Aircraft. In 1953 it was purchased by General Dynamics, and operated as their Convair Division for most of its corporate history.",
+                  "administrator": null,
+                  "founding_year": 1943,
+                  "launchers": "",
+                  "spacecraft": "",
+                  "parent": null,
+                  "image": null,
+                  "logo": null,
+                  "social_logo": null,
+                  "total_launch_count": 1,
+                  "consecutive_successful_launches": 1,
+                  "successful_launches": 1,
+                  "failed_launches": 0,
+                  "pending_launches": 0,
+                  "consecutive_successful_landings": 0,
+                  "successful_landings": 0,
+                  "failed_landings": 0,
+                  "attempted_landings": 0,
+                  "successful_landings_spacecraft": 0,
+                  "failed_landings_spacecraft": 0,
+                  "attempted_landings_spacecraft": 0,
+                  "successful_landings_payload": 0,
+                  "failed_landings_payload": 0,
+                  "attempted_landings_payload": 0,
+                  "info_url": null,
+                  "wiki_url": "https://en.wikipedia.org/wiki/Convair",
+                  "social_media_links": []
+                }
+              ],
+              "parent": {
+                "response_mode": "normal",
+                "id": 66,
+                "name": "Atlas",
+                "manufacturer": [
+                  {
+                    "response_mode": "normal",
+                    "id": 82,
+                    "url": "https://ll.thespacedevs.com/2.3.0/agencies/82/",
+                    "name": "Lockheed Martin",
+                    "abbrev": "LMT",
+                    "type": {
+                      "id": 3,
+                      "name": "Commercial"
+                    },
+                    "featured": false,
+                    "country": [
+                      {
+                        "id": 2,
+                        "name": "United States of America",
+                        "alpha_2_code": "US",
+                        "alpha_3_code": "USA",
+                        "nationality_name": "American",
+                        "nationality_name_composed": "Americano"
+                      }
+                    ],
+                    "description": "Lockheed Martin's Space Division started in the production of missiles and later ICBM's in the 1950s. Their TITAN missile system was used for 12 Gemini spacecraft and the Voyager probes.  They have worked largely in collaboration with NASA on many of their probes, landers, and spacecraft, and hope to play a key role in NASA's return to the moon in 2024.",
+                    "administrator": null,
+                    "founding_year": 1953,
+                    "launchers": "Titan | Agena",
+                    "spacecraft": "Hubble | JUNO | InSight",
+                    "parent": null,
+                    "image": null,
+                    "logo": null,
+                    "social_logo": null
+                  },
+                  {
+                    "response_mode": "normal",
+                    "id": 124,
+                    "url": "https://ll.thespacedevs.com/2.3.0/agencies/124/",
+                    "name": "United Launch Alliance",
+                    "abbrev": "ULA",
+                    "type": {
+                      "id": 3,
+                      "name": "Commercial"
+                    },
+                    "featured": true,
+                    "country": [
+                      {
+                        "id": 2,
+                        "name": "United States of America",
+                        "alpha_2_code": "US",
+                        "alpha_3_code": "USA",
+                        "nationality_name": "American",
+                        "nationality_name_composed": "Americano"
+                      }
+                    ],
+                    "description": "United Launch Alliance (ULA) is a joint venture of Lockheed Martin Space Systems and Boeing Defense, Space & Security. ULA was formed in December 2006 by combining the teams at these companies which provide spacecraft launch services to the government of the United States. ULA launches from both coasts of the US. They launch their Atlas V vehicle from LC-41 in Cape Canaveral and LC-3E at Vandeberg. Their Delta IV launches from LC-37 at Cape Canaveral and LC-6 at Vandenberg.",
+                    "administrator": "Interim CEO: John Elbon",
+                    "founding_year": 2006,
+                    "launchers": "Atlas | Delta | Vulcan",
+                    "spacecraft": "",
+                    "parent": null,
+                    "image": {
+                      "id": 30,
+                      "name": "[AUTO] United Launch Alliance - image",
+                      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united_launch_a_image_20210412201210.png",
+                      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184706.png",
+                      "credit": null,
+                      "license": {
+                        "id": 1,
+                        "name": "Unknown",
+                        "priority": 9,
+                        "link": null
+                      },
+                      "single_use": true,
+                      "variants": []
+                    },
+                    "logo": {
+                      "id": 191,
+                      "name": "[AUTO] United Launch Alliance - logo",
+                      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_logo_20210412195953.png",
+                      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185148.png",
+                      "credit": null,
+                      "license": {
+                        "id": 1,
+                        "name": "Unknown",
+                        "priority": 9,
+                        "link": null
+                      },
+                      "single_use": true,
+                      "variants": []
+                    },
+                    "social_logo": {
+                      "id": 97,
+                      "name": "[AUTO] United Launch Alliance - social_logo",
+                      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520launch2520alliance_nation_20230531043703.jpg",
+                      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184852.jpeg",
+                      "credit": null,
+                      "license": {
+                        "id": 1,
+                        "name": "Unknown",
+                        "priority": 9,
+                        "link": null
+                      },
+                      "single_use": true,
+                      "variants": []
+                    }
+                  }
+                ],
+                "parent": null
+              },
+              "description": "",
+              "active": false,
+              "maiden_flight": "1959-09-09",
+              "total_launch_count": 133,
+              "consecutive_successful_launches": 21,
+              "successful_launches": 118,
+              "failed_launches": 15,
+              "pending_launches": 0,
+              "attempted_landings": 0,
+              "successful_landings": 0,
+              "failed_landings": 0,
+              "consecutive_successful_landings": 0
+            }
+          ],
+          "full_name": "Atlas SLV-3D Centaur",
+          "variant": "SLV-3D Centaur",
+          "active": false,
+          "is_placeholder": false,
+          "manufacturer": {
+            "response_mode": "normal",
+            "id": 1004,
+            "url": "https://ll.thespacedevs.com/2.3.0/agencies/1004/",
+            "name": "Convair",
+            "abbrev": "",
+            "type": {
+              "id": 3,
+              "name": "Commercial"
+            },
+            "featured": false,
+            "country": [
+              {
+                "id": 2,
+                "name": "United States of America",
+                "alpha_2_code": "US",
+                "alpha_3_code": "USA",
+                "nationality_name": "American",
+                "nationality_name_composed": "Americano"
+              }
+            ],
+            "description": "Convair, previously Consolidated Vultee, was an American aircraft manufacturing company that later expanded into rockets and spacecraft. The company was formed in 1943 by the merger of Consolidated Aircraft and Vultee Aircraft. In 1953 it was purchased by General Dynamics, and operated as their Convair Division for most of its corporate history.",
+            "administrator": null,
+            "founding_year": 1943,
+            "launchers": "",
+            "spacecraft": "",
+            "parent": null,
+            "image": null,
+            "logo": null,
+            "social_logo": null,
+            "total_launch_count": 1,
+            "consecutive_successful_launches": 1,
+            "successful_launches": 1,
+            "failed_launches": 0,
+            "pending_launches": 0,
+            "consecutive_successful_landings": 0,
+            "successful_landings": 0,
+            "failed_landings": 0,
+            "attempted_landings": 0,
+            "successful_landings_spacecraft": 0,
+            "failed_landings_spacecraft": 0,
+            "attempted_landings_spacecraft": 0,
+            "successful_landings_payload": 0,
+            "failed_landings_payload": 0,
+            "attempted_landings_payload": 0,
+            "info_url": null,
+            "wiki_url": "https://en.wikipedia.org/wiki/Convair",
+            "social_media_links": []
+          },
+          "program": [],
+          "reusable": false,
+          "image": {
+            "id": 2523,
+            "name": "Atlas SLV-3D liftoff (Pioneer 11)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_slv-3d_li_image_20251103141732.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas_slv-3d_li_image_thumbnail_20251103141732.jpeg",
+            "credit": "NASA Marshall Space Flight Center",
+            "license": {
+              "id": 4,
+              "name": "NASA Image and Media Guidelines",
+              "priority": 0,
+              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "info_url": null,
+          "wiki_url": "https://en.wikipedia.org/wiki/Atlas-Centaurr",
+          "description": "The Atlas-Centaur was a US expendable launch vehicle derived from the SM-65 Atlas D missile. Launches were conducted from Launch Complex 36 at the Cape Canaveral Air Force Station in Florida.",
+          "alias": "",
+          "min_stage": 2,
+          "max_stage": 2,
+          "length": 21.0,
+          "diameter": 3.05,
+          "maiden_flight": "1973-04-06",
+          "launch_cost": null,
+          "launch_mass": 120.0,
+          "leo_capacity": 800.0,
+          "gto_capacity": null,
+          "geo_capacity": null,
+          "sso_capacity": null,
+          "to_thrust": null,
+          "apogee": null,
+          "total_launch_count": 32,
+          "consecutive_successful_launches": 19,
+          "successful_launches": 30,
+          "failed_launches": 2,
+          "pending_launches": 0,
+          "attempted_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "consecutive_successful_landings": 0,
+          "fastest_turnaround": "P33DT21H2M1S"
+        },
+        "launcher_stage": [],
+        "spacecraft_stage": [],
+        "payloads": []
+      },
+      "mission": {
+        "id": 2765,
+        "name": "Pioneer 11",
+        "type": "Robotic Exploration",
+        "description": "Probe sent to the outer solar system",
+        "image": null,
+        "orbit": {
+          "id": 14,
+          "name": "Solar Escape Trajectory",
+          "abbrev": "Solar Esc.",
+          "celestial_body": {
+            "response_mode": "list",
+            "id": 1,
+            "name": "Earth"
+          }
+        },
+        "agencies": [],
+        "info_urls": [],
+        "vid_urls": []
+      },
+      "pad": {
+        "id": 122,
+        "url": "https://ll.thespacedevs.com/2.3.0/pads/122/",
+        "active": true,
+        "agencies": [
+          {
+            "response_mode": "normal",
+            "id": 161,
+            "url": "https://ll.thespacedevs.com/2.3.0/agencies/161/",
+            "name": "United States Air Force",
+            "abbrev": "USAF",
+            "type": {
+              "id": 1,
+              "name": "Government"
+            },
+            "featured": false,
+            "country": [
+              {
+                "id": 2,
+                "name": "United States of America",
+                "alpha_2_code": "US",
+                "alpha_3_code": "USA",
+                "nationality_name": "American",
+                "nationality_name_composed": "Americano"
+              }
+            ],
+            "description": "The United States Air Force (USAF) is the air service branch of the United States Armed Forces, and is one of the eight uniformed services of the United States. Originally created on 1 August 1907, as a part of the United States Army Signal Corps, the USAF was established as a separate branch of the United States Armed Forces in 1947 with the enactment of the National Security Act of 1947.",
+            "administrator": "Commander-in-Chief: President of the US",
+            "founding_year": 1947,
+            "launchers": "",
+            "spacecraft": "",
+            "parent": null,
+            "image": null,
+            "logo": {
+              "id": 193,
+              "name": "[AUTO] United States Air Force - logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_logo_20230804084626.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185152.png",
+              "credit": null,
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "social_logo": {
+              "id": 99,
+              "name": "[AUTO] United States Air Force - social_logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/united2520states2520air2520force_nation_20230804085132.jpg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184855.jpeg",
+              "credit": null,
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            }
+          }
+        ],
+        "name": "Launch Complex 36B",
+        "image": null,
+        "description": null,
+        "info_url": null,
+        "wiki_url": "https://en.wikipedia.org/wiki/Cape_Canaveral_Launch_Complex_36",
+        "map_url": "https://www.google.com/maps?q=28.4705556,-80.542194",
+        "latitude": 28.4705556,
+        "longitude": -80.542194,
+        "country": {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_122_20200803143232.jpg",
+        "total_launch_count": 76,
+        "orbital_launch_attempt_count": 76,
+        "fastest_turnaround": "P50DT6H10M56S",
+        "location": {
+          "response_mode": "normal",
+          "id": 12,
+          "url": "https://ll.thespacedevs.com/2.3.0/locations/12/",
+          "name": "Cape Canaveral SFS, FL, USA",
+          "celestial_body": {
+            "response_mode": "normal",
+            "id": 1,
+            "name": "Earth",
+            "type": {
+              "id": 1,
+              "name": "Planet"
+            },
+            "diameter": 12742000.0,
+            "mass": 5.972168e+24,
+            "gravity": 9.80655,
+            "length_of_day": "1 00:00:00",
+            "atmosphere": true,
+            "image": {
+              "id": 2040,
+              "name": "Earth (Apollo 17)",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+              "credit": "NASA",
+              "license": {
+                "id": 4,
+                "name": "NASA Image and Media Guidelines",
+                "priority": 0,
+                "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+            "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+            "total_attempted_launches": 7507,
+            "successful_launches": 6951,
+            "failed_launches": 556,
+            "total_attempted_landings": 1307,
+            "successful_landings": 1260,
+            "failed_landings": 47
+          },
+          "active": true,
+          "country": {
+            "id": 2,
+            "name": "United States of America",
+            "alpha_2_code": "US",
+            "alpha_3_code": "USA",
+            "nationality_name": "American",
+            "nationality_name_composed": "Americano"
+          },
+          "description": "Cape Canaveral Space Force Station (CCSFS) is an installation of the United States Space Force's Space Launch Delta 45, located on Cape Canaveral in Brevard County, Florida.",
+          "image": {
+            "id": 2200,
+            "name": "Cape Canaveral & KSC seen from orbit (STS-43)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_20240918151615.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_thumbnail_20240918151616.jpeg",
+            "credit": "NASA",
+            "license": {
+              "id": 4,
+              "name": "NASA Image and Media Guidelines",
+              "priority": 0,
+              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_12_20200803142519.jpg",
+          "longitude": -80.577778,
+          "latitude": 28.488889,
+          "timezone_name": "America/New_York",
+          "total_launch_count": 1107,
+          "total_landing_count": 75
+        }
+      },
+      "webcast_live": false,
+      "program": [],
+      "orbital_launch_attempt_count": 1441,
+      "location_launch_attempt_count": 272,
+      "pad_launch_attempt_count": 14,
+      "agency_launch_attempt_count": 594,
+      "orbital_launch_attempt_count_year": 19,
+      "location_launch_attempt_count_year": 2,
+      "pad_launch_attempt_count_year": 1,
+      "agency_launch_attempt_count_year": 3,
+      "flightclub_url": null,
+      "updates": [],
+      "info_urls": [],
+      "vid_urls": [],
+      "timeline": [],
+      "pad_turnaround": "P227DT15H42M58S",
+      "mission_patches": []
+    }
+  ]
+}
