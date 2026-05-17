@@ -1,0 +1,1790 @@
+{
+  "count": 1,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": "9959bda6-fa27-4ed5-8bea-d2f55f7a5b68",
+      "url": "https://ll.thespacedevs.com/2.3.0/launches/9959bda6-fa27-4ed5-8bea-d2f55f7a5b68/",
+      "name": "Saturn IB | Apollo-Soyuz Test Project",
+      "response_mode": "detailed",
+      "slug": "saturn-ib-apollo-soyuz-test-project",
+      "launch_designator": "1975-066",
+      "status": {
+        "id": 3,
+        "name": "Launch Successful",
+        "abbrev": "Success",
+        "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
+      },
+      "last_updated": "2023-06-14T08:44:40Z",
+      "net": "1975-07-15T19:50:00Z",
+      "net_precision": null,
+      "window_end": "1975-07-15T19:50:00Z",
+      "window_start": "1975-07-15T19:50:00Z",
+      "image": {
+        "id": 1819,
+        "name": "[AUTO] Saturn IB - image",
+        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/saturn2520ib_image_20190222030046.jpeg",
+        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193844.jpeg",
+        "credit": null,
+        "license": {
+          "id": 1,
+          "name": "Unknown",
+          "priority": 9,
+          "link": null
+        },
+        "single_use": true,
+        "variants": []
+      },
+      "infographic": null,
+      "probability": null,
+      "weather_concerns": null,
+      "failreason": null,
+      "hashtag": null,
+      "launch_service_provider": {
+        "response_mode": "normal",
+        "id": 44,
+        "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+        "name": "National Aeronautics and Space Administration",
+        "abbrev": "NASA",
+        "type": {
+          "id": 1,
+          "name": "Government"
+        },
+        "featured": true,
+        "country": [
+          {
+            "id": 2,
+            "name": "United States of America",
+            "alpha_2_code": "US",
+            "alpha_3_code": "USA",
+            "nationality_name": "American",
+            "nationality_name_composed": "Americano"
+          }
+        ],
+        "description": "The National Aeronautics and Space Administration is an independent agency of the executive branch of the United States federal government responsible for the civilian space program, as well as aeronautics and aerospace research. NASA have many launch facilities but most are inactive. The most commonly used pad will be LC-39B at Kennedy Space Center in Florida.",
+        "administrator": "Administrator: Jared Isaacman",
+        "founding_year": 1958,
+        "launchers": "Space Shuttle | SLS",
+        "spacecraft": "Orion",
+        "parent": null,
+        "image": {
+          "id": 19,
+          "name": "[AUTO] National Aeronautics and Space Administration - image",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_image_20190207032448.jpeg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184631.jpeg",
+          "credit": null,
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "logo": {
+          "id": 161,
+          "name": "[AUTO] National Aeronautics and Space Administration - logo",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_logo_20190207032448.png",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185043.png",
+          "credit": null,
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "social_logo": {
+          "id": 76,
+          "name": "[AUTO] National Aeronautics and Space Administration - social_logo",
+          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_nation_20230803040809.jpg",
+          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184823.jpeg",
+          "credit": null,
+          "license": {
+            "id": 1,
+            "name": "Unknown",
+            "priority": 9,
+            "link": null
+          },
+          "single_use": true,
+          "variants": []
+        },
+        "total_launch_count": 142,
+        "consecutive_successful_launches": 12,
+        "successful_launches": 122,
+        "failed_launches": 20,
+        "pending_launches": 5,
+        "consecutive_successful_landings": 0,
+        "successful_landings": 0,
+        "failed_landings": 0,
+        "attempted_landings": 0,
+        "successful_landings_spacecraft": 179,
+        "failed_landings_spacecraft": 2,
+        "attempted_landings_spacecraft": 181,
+        "successful_landings_payload": 0,
+        "failed_landings_payload": 0,
+        "attempted_landings_payload": 0,
+        "info_url": "https://www.nasa.gov",
+        "wiki_url": "https://en.wikipedia.org/wiki/National_Aeronautics_and_Space_Administration",
+        "social_media_links": []
+      },
+      "rocket": {
+        "id": 252,
+        "configuration": {
+          "response_mode": "detailed",
+          "id": 163,
+          "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/163/",
+          "name": "Saturn IB",
+          "families": [
+            {
+              "response_mode": "detailed",
+              "id": 138,
+              "name": "Saturn",
+              "manufacturer": [
+                {
+                  "response_mode": "normal",
+                  "id": 44,
+                  "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+                  "name": "National Aeronautics and Space Administration",
+                  "abbrev": "NASA",
+                  "type": {
+                    "id": 1,
+                    "name": "Government"
+                  },
+                  "featured": true,
+                  "country": [
+                    {
+                      "id": 2,
+                      "name": "United States of America",
+                      "alpha_2_code": "US",
+                      "alpha_3_code": "USA",
+                      "nationality_name": "American",
+                      "nationality_name_composed": "Americano"
+                    }
+                  ],
+                  "description": "The National Aeronautics and Space Administration is an independent agency of the executive branch of the United States federal government responsible for the civilian space program, as well as aeronautics and aerospace research. NASA have many launch facilities but most are inactive. The most commonly used pad will be LC-39B at Kennedy Space Center in Florida.",
+                  "administrator": "Administrator: Jared Isaacman",
+                  "founding_year": 1958,
+                  "launchers": "Space Shuttle | SLS",
+                  "spacecraft": "Orion",
+                  "parent": null,
+                  "image": {
+                    "id": 19,
+                    "name": "[AUTO] National Aeronautics and Space Administration - image",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_image_20190207032448.jpeg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184631.jpeg",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "logo": {
+                    "id": 161,
+                    "name": "[AUTO] National Aeronautics and Space Administration - logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_logo_20190207032448.png",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185043.png",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "social_logo": {
+                    "id": 76,
+                    "name": "[AUTO] National Aeronautics and Space Administration - social_logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_nation_20230803040809.jpg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184823.jpeg",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "total_launch_count": 142,
+                  "consecutive_successful_launches": 12,
+                  "successful_launches": 122,
+                  "failed_launches": 20,
+                  "pending_launches": 5,
+                  "consecutive_successful_landings": 0,
+                  "successful_landings": 0,
+                  "failed_landings": 0,
+                  "attempted_landings": 0,
+                  "successful_landings_spacecraft": 179,
+                  "failed_landings_spacecraft": 2,
+                  "attempted_landings_spacecraft": 181,
+                  "successful_landings_payload": 0,
+                  "failed_landings_payload": 0,
+                  "attempted_landings_payload": 0,
+                  "info_url": "https://www.nasa.gov",
+                  "wiki_url": "https://en.wikipedia.org/wiki/National_Aeronautics_and_Space_Administration",
+                  "social_media_links": []
+                }
+              ],
+              "parent": null,
+              "description": "",
+              "active": false,
+              "maiden_flight": "1961-10-27",
+              "total_launch_count": 33,
+              "consecutive_successful_launches": 16,
+              "successful_launches": 31,
+              "failed_launches": 2,
+              "pending_launches": 0,
+              "attempted_landings": 0,
+              "successful_landings": 0,
+              "failed_landings": 0,
+              "consecutive_successful_landings": 0
+            }
+          ],
+          "full_name": "Saturn IB",
+          "variant": "IB",
+          "active": false,
+          "is_placeholder": false,
+          "manufacturer": {
+            "response_mode": "normal",
+            "id": 44,
+            "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+            "name": "National Aeronautics and Space Administration",
+            "abbrev": "NASA",
+            "type": {
+              "id": 1,
+              "name": "Government"
+            },
+            "featured": true,
+            "country": [
+              {
+                "id": 2,
+                "name": "United States of America",
+                "alpha_2_code": "US",
+                "alpha_3_code": "USA",
+                "nationality_name": "American",
+                "nationality_name_composed": "Americano"
+              }
+            ],
+            "description": "The National Aeronautics and Space Administration is an independent agency of the executive branch of the United States federal government responsible for the civilian space program, as well as aeronautics and aerospace research. NASA have many launch facilities but most are inactive. The most commonly used pad will be LC-39B at Kennedy Space Center in Florida.",
+            "administrator": "Administrator: Jared Isaacman",
+            "founding_year": 1958,
+            "launchers": "Space Shuttle | SLS",
+            "spacecraft": "Orion",
+            "parent": null,
+            "image": {
+              "id": 19,
+              "name": "[AUTO] National Aeronautics and Space Administration - image",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_image_20190207032448.jpeg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184631.jpeg",
+              "credit": null,
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "logo": {
+              "id": 161,
+              "name": "[AUTO] National Aeronautics and Space Administration - logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_logo_20190207032448.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185043.png",
+              "credit": null,
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "social_logo": {
+              "id": 76,
+              "name": "[AUTO] National Aeronautics and Space Administration - social_logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_nation_20230803040809.jpg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184823.jpeg",
+              "credit": null,
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "total_launch_count": 142,
+            "consecutive_successful_launches": 12,
+            "successful_launches": 122,
+            "failed_launches": 20,
+            "pending_launches": 5,
+            "consecutive_successful_landings": 0,
+            "successful_landings": 0,
+            "failed_landings": 0,
+            "attempted_landings": 0,
+            "successful_landings_spacecraft": 179,
+            "failed_landings_spacecraft": 2,
+            "attempted_landings_spacecraft": 181,
+            "successful_landings_payload": 0,
+            "failed_landings_payload": 0,
+            "attempted_landings_payload": 0,
+            "info_url": "https://www.nasa.gov",
+            "wiki_url": "https://en.wikipedia.org/wiki/National_Aeronautics_and_Space_Administration",
+            "social_media_links": []
+          },
+          "program": [
+            {
+              "response_mode": "normal",
+              "id": 4,
+              "url": "https://ll.thespacedevs.com/2.3.0/programs/4/",
+              "name": "Apollo",
+              "image": {
+                "id": 1877,
+                "name": "[AUTO] Apollo - image",
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/apollo_program_20200820200202.png",
+                "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194019.png",
+                "credit": null,
+                "license": {
+                  "id": 1,
+                  "name": "Unknown",
+                  "priority": 9,
+                  "link": null
+                },
+                "single_use": true,
+                "variants": []
+              },
+              "info_url": "https://www.nasa.gov/mission_pages/apollo/index.html",
+              "wiki_url": "https://en.wikipedia.org/wiki/Apollo_program",
+              "description": "The Apollo program was the third United States human spaceflight program carried out by the National Aeronautics and Space Administration (NASA), which succeeded in landing the first humans on the Moon from 1969 to 1972.",
+              "agencies": [
+                {
+                  "response_mode": "list",
+                  "id": 44,
+                  "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+                  "name": "National Aeronautics and Space Administration",
+                  "abbrev": "NASA",
+                  "type": {
+                    "id": 1,
+                    "name": "Government"
+                  }
+                }
+              ],
+              "start_date": "1966-11-16T00:00:00Z",
+              "end_date": "1972-12-19T19:24:59Z",
+              "mission_patches": [],
+              "type": {
+                "id": 2,
+                "name": "Human Spaceflight"
+              }
+            }
+          ],
+          "reusable": false,
+          "image": {
+            "id": 1819,
+            "name": "[AUTO] Saturn IB - image",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/saturn2520ib_image_20190222030046.jpeg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193844.jpeg",
+            "credit": null,
+            "license": {
+              "id": 1,
+              "name": "Unknown",
+              "priority": 9,
+              "link": null
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "info_url": null,
+          "wiki_url": "https://en.wikipedia.org/wiki/Saturn_IB",
+          "description": "The Saturn IB (pronounced \"one B\", also known as the Uprated Saturn I) was an American launch vehicle commissioned by the National Aeronautics and Space Administration (NASA) for the Apollo program. It replaced the S-IV second stage of the Saturn I with the much more powerful S-IVB, able to launch a partially fueled Apollo Command/Service Module (CSM) or a fully fueled Lunar Module (LM) into low Earth orbit for early flight tests before the larger Saturn V needed for lunar flight was ready.",
+          "alias": "",
+          "min_stage": 2,
+          "max_stage": 2,
+          "length": 43.2,
+          "diameter": 6.61,
+          "maiden_flight": "1966-02-26",
+          "launch_cost": null,
+          "launch_mass": 590.0,
+          "leo_capacity": 21000.0,
+          "gto_capacity": null,
+          "geo_capacity": null,
+          "sso_capacity": null,
+          "to_thrust": 7100.0,
+          "apogee": null,
+          "total_launch_count": 10,
+          "consecutive_successful_launches": 6,
+          "successful_launches": 9,
+          "failed_launches": 1,
+          "pending_launches": 0,
+          "attempted_landings": 0,
+          "successful_landings": 0,
+          "failed_landings": 0,
+          "consecutive_successful_landings": 0,
+          "fastest_turnaround": "P51DT2H22M15S"
+        },
+        "launcher_stage": [],
+        "spacecraft_stage": [
+          {
+            "id": 373,
+            "url": "https://ll.thespacedevs.com/2.3.0/spacecraft_flights/373/",
+            "destination": "Low Earth Orbit",
+            "mission_end": "1975-07-24T21:18:00Z",
+            "spacecraft": {
+              "response_mode": "normal",
+              "id": 32,
+              "url": "https://ll.thespacedevs.com/2.3.0/spacecraft/32/",
+              "name": "Apollo CSM-111",
+              "serial_number": "CSM-111",
+              "is_placeholder": false,
+              "image": {
+                "id": 1902,
+                "name": "[AUTO] Apollo Command/Service Module - image",
+                "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/apollo2520command2fservice2520module_image_20190207032507.jpeg",
+                "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194107.jpeg",
+                "credit": null,
+                "license": {
+                  "id": 1,
+                  "name": "Unknown",
+                  "priority": 9,
+                  "link": null
+                },
+                "single_use": true,
+                "variants": []
+              },
+              "in_space": false,
+              "time_in_space": "P9DT1H28M",
+              "time_docked": "P1DT22H46M12S",
+              "flights_count": 1,
+              "mission_ends_count": 1,
+              "status": {
+                "id": 4,
+                "name": "Single Use"
+              },
+              "description": "CSM-111 was an Apollo Command & Service Module used in the Apollo-Soyuz Test Project.",
+              "spacecraft_config": {
+                "response_mode": "detailed",
+                "id": 10,
+                "url": "https://ll.thespacedevs.com/2.3.0/spacecraft_configurations/10/",
+                "name": "Apollo Command/Service Module",
+                "type": {
+                  "id": 2,
+                  "name": "Capsule"
+                },
+                "agency": {
+                  "response_mode": "normal",
+                  "id": 999,
+                  "url": "https://ll.thespacedevs.com/2.3.0/agencies/999/",
+                  "name": "North American Aviation",
+                  "abbrev": "",
+                  "type": {
+                    "id": 3,
+                    "name": "Commercial"
+                  },
+                  "featured": false,
+                  "country": [
+                    {
+                      "id": 2,
+                      "name": "United States of America",
+                      "alpha_2_code": "US",
+                      "alpha_3_code": "USA",
+                      "nationality_name": "American",
+                      "nationality_name_composed": "Americano"
+                    }
+                  ],
+                  "description": "North American Aviation (NAA) was a major American aerospace manufacturer, responsible for a number of historic aircraft, including the T-6 Texan trainer, the P-51 Mustang fighter, the B-25 Mitchell bomber, the F-86 Sabre jet fighter, the X-15 rocket plane, and the XB-70, as well as Apollo command and service module, the second stage of the Saturn V rocket, the Space Shuttle orbiter and the B-1 Lancer.",
+                  "administrator": null,
+                  "founding_year": 1928,
+                  "launchers": "North American X-15",
+                  "spacecraft": "",
+                  "parent": "Boeing",
+                  "image": null,
+                  "logo": {
+                    "id": 164,
+                    "name": "[AUTO] North American Aviation - logo",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/north2520american2520aviation_logo_20200711032022.png",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185049.png",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "social_logo": null
+                },
+                "family": [],
+                "in_use": false,
+                "image": {
+                  "id": 1902,
+                  "name": "[AUTO] Apollo Command/Service Module - image",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/apollo2520command2fservice2520module_image_20190207032507.jpeg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194107.jpeg",
+                  "credit": null,
+                  "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "capability": "Cargo and Human Transportation to Lunar Orbit",
+                "history": "The Apollo Command/Service Module (CSM) was one of two principal components of the United States Apollo spacecraft, used for the Apollo program which landed astronauts on the Moon between 1969 and 1972.",
+                "details": "The Apollo Command/Service Module (CSM) was one of two principal components of the United States Apollo spacecraft, used for the Apollo program which landed astronauts on the Moon between 1969 and 1972. The CSM functioned as a mother ship which carried a crew of three astronauts and the second Apollo spacecraft, the Lunar Module, to lunar orbit, and brought the astronauts back to Earth. It consisted of two parts: the conical Command Module, a cabin that housed the crew and carried equipment needed for atmospheric reentry and splashdown; and the cylindrical Service Module which provided propulsion, electrical power and storage for various consumables required during a mission. An umbilical connection transferred power and consumables between the two modules. Just before reentry of the Command Module on the return home, the umbilical connection was severed and the Service Module was cast off and allowed to burn up in the atmosphere.",
+                "maiden_flight": "1966-02-26",
+                "height": 11.0,
+                "diameter": 3.9,
+                "human_rated": true,
+                "crew_capacity": 3,
+                "payload_capacity": 1050,
+                "payload_return_capacity": null,
+                "flight_life": "14 days",
+                "wiki_link": "https://en.wikipedia.org/wiki/Apollo_Command/Service_Module",
+                "info_link": "",
+                "spacecraft_flown": 21,
+                "total_launch_count": 21,
+                "successful_launches": 19,
+                "failed_launches": 2,
+                "attempted_landings": 20,
+                "successful_landings": 20,
+                "failed_landings": 0,
+                "fastest_turnaround": null
+              },
+              "fastest_turnaround": null
+            },
+            "landing": {
+              "id": 378,
+              "url": "https://ll.thespacedevs.com/2.3.0/landings/378/",
+              "attempt": true,
+              "success": true,
+              "description": "The Apollo spacecraft successfully splashed down in the Pacific Ocean.",
+              "downrange_distance": null,
+              "landing_location": {
+                "id": 18,
+                "name": "Pacific Ocean",
+                "active": true,
+                "abbrev": "PAC",
+                "description": "Pacific Ocean",
+                "location": null,
+                "longitude": null,
+                "latitude": null,
+                "image": {
+                  "id": 2242,
+                  "name": "Pacific Ocean from the ISS",
+                  "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pacific_ocean_f_image_20240920094534.jpg",
+                  "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pacific_ocean_f_image_thumbnail_20240920094534.jpeg",
+                  "credit": "NASA",
+                  "license": {
+                    "id": 4,
+                    "name": "NASA Image and Media Guidelines",
+                    "priority": 0,
+                    "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+                  },
+                  "single_use": true,
+                  "variants": []
+                },
+                "successful_landings": 51,
+                "attempted_landings": 53,
+                "failed_landings": 2,
+                "celestial_body": {
+                  "response_mode": "normal",
+                  "id": 1,
+                  "name": "Earth",
+                  "type": {
+                    "id": 1,
+                    "name": "Planet"
+                  },
+                  "diameter": 12742000.0,
+                  "mass": 5.972168e+24,
+                  "gravity": 9.80655,
+                  "length_of_day": "1 00:00:00",
+                  "atmosphere": true,
+                  "image": {
+                    "id": 2040,
+                    "name": "Earth (Apollo 17)",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+                    "credit": "NASA",
+                    "license": {
+                      "id": 4,
+                      "name": "NASA Image and Media Guidelines",
+                      "priority": 0,
+                      "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+                  "wiki_url": "https://en.wikipedia.org/wiki/Earth"
+                }
+              },
+              "type": {
+                "id": 4,
+                "name": "Parachute Landing",
+                "abbrev": "PCL",
+                "description": "Unpowered landing using parachute(s)."
+              }
+            },
+            "duration": "P9DT1H28M",
+            "turn_around_time": null,
+            "response_mode": "detailed",
+            "launch_crew": [
+              {
+                "id": 957,
+                "role": {
+                  "id": 1,
+                  "role": "Commander",
+                  "priority": 0
+                },
+                "astronaut": {
+                  "id": 31,
+                  "url": "https://ll.thespacedevs.com/2.3.0/astronauts/31/",
+                  "name": "Thomas P. Stafford",
+                  "status": {
+                    "id": 11,
+                    "name": "Deceased"
+                  },
+                  "agency": {
+                    "response_mode": "list",
+                    "id": 44,
+                    "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+                    "name": "National Aeronautics and Space Administration",
+                    "abbrev": "NASA",
+                    "type": {
+                      "id": 1,
+                      "name": "Government"
+                    }
+                  },
+                  "image": {
+                    "id": 947,
+                    "name": "[AUTO] Thomas P. Stafford - image",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/thomas_p._staff_image_20220911033654.jpeg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305191213.jpeg",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "response_mode": "list",
+                  "type": {
+                    "id": 2,
+                    "name": "Government"
+                  },
+                  "in_space": false,
+                  "time_in_space": "P21DT3H42M51S",
+                  "eva_time": "P0D",
+                  "age": 93,
+                  "date_of_birth": "1930-09-17",
+                  "date_of_death": "2024-03-18",
+                  "nationality": [
+                    {
+                      "id": 2,
+                      "name": "United States of America",
+                      "alpha_2_code": "US",
+                      "alpha_3_code": "USA",
+                      "nationality_name": "American",
+                      "nationality_name_composed": "Americano"
+                    }
+                  ],
+                  "bio": "Thomas Patten Stafford was an American Air Force officer, test pilot, and NASA astronaut.",
+                  "wiki": "https://en.wikipedia.org/wiki/Thomas_P._Stafford",
+                  "last_flight": "1975-07-15T19:50:00Z",
+                  "first_flight": "1965-12-15T13:37:26Z",
+                  "social_media_links": []
+                }
+              },
+              {
+                "id": 3058,
+                "role": {
+                  "id": 5,
+                  "role": "Command Module Pilot",
+                  "priority": 1
+                },
+                "astronaut": {
+                  "id": 301,
+                  "url": "https://ll.thespacedevs.com/2.3.0/astronauts/301/",
+                  "name": "Vance D. Brand",
+                  "status": {
+                    "id": 2,
+                    "name": "Retired"
+                  },
+                  "agency": {
+                    "response_mode": "list",
+                    "id": 44,
+                    "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+                    "name": "National Aeronautics and Space Administration",
+                    "abbrev": "NASA",
+                    "type": {
+                      "id": 1,
+                      "name": "Government"
+                    }
+                  },
+                  "image": {
+                    "id": 528,
+                    "name": "[AUTO] Vance D. Brand - image",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vance2520d.2520brand_image_20181202090314.jpg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305190102.jpeg",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "response_mode": "list",
+                  "type": {
+                    "id": 2,
+                    "name": "Government"
+                  },
+                  "in_space": false,
+                  "time_in_space": "P31DT2H2M55S",
+                  "eva_time": "P0D",
+                  "age": 95,
+                  "date_of_birth": "1931-05-09",
+                  "date_of_death": null,
+                  "nationality": [
+                    {
+                      "id": 2,
+                      "name": "United States of America",
+                      "alpha_2_code": "US",
+                      "alpha_3_code": "USA",
+                      "nationality_name": "American",
+                      "nationality_name_composed": "Americano"
+                    }
+                  ],
+                  "bio": "Vance DeVoe Brand is an American former naval officer and aviator, aeronautical engineer, test pilot, and NASA astronaut. He served as Command Module Pilot during the first U.S.-Soviet joint spaceflight in 1975, and as Commander of three Space Shuttle missions.\r\n\r\nHis flight experience includes 9,669 flying hours, which includes 8,089 hours in jets, 391 hours in helicopters, 746 hours in spacecraft, and checkout in more than 30 types of military aircraft. Vance Brand Airport in Longmont, Colorado, is named in his honor.",
+                  "wiki": "https://en.wikipedia.org/wiki/Vance_D._Brand",
+                  "last_flight": "1990-12-02T06:49:00Z",
+                  "first_flight": "1975-07-15T19:50:00Z",
+                  "social_media_links": []
+                }
+              },
+              {
+                "id": 3059,
+                "role": {
+                  "id": 18,
+                  "role": "Docking Module Pilot",
+                  "priority": 2
+                },
+                "astronaut": {
+                  "id": 22,
+                  "url": "https://ll.thespacedevs.com/2.3.0/astronauts/22/",
+                  "name": "Deke Slayton",
+                  "status": {
+                    "id": 11,
+                    "name": "Deceased"
+                  },
+                  "agency": {
+                    "response_mode": "list",
+                    "id": 44,
+                    "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+                    "name": "National Aeronautics and Space Administration",
+                    "abbrev": "NASA",
+                    "type": {
+                      "id": 1,
+                      "name": "Government"
+                    }
+                  },
+                  "image": {
+                    "id": 225,
+                    "name": "[AUTO] Deke Slayton - image",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/deke2520slayton_image_20190426143649.jpeg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185249.jpeg",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "response_mode": "list",
+                  "type": {
+                    "id": 2,
+                    "name": "Government"
+                  },
+                  "in_space": false,
+                  "time_in_space": "P9DT1H28M",
+                  "eva_time": "P0D",
+                  "age": 69,
+                  "date_of_birth": "1924-03-01",
+                  "date_of_death": "1993-06-13",
+                  "nationality": [
+                    {
+                      "id": 2,
+                      "name": "United States of America",
+                      "alpha_2_code": "US",
+                      "alpha_3_code": "USA",
+                      "nationality_name": "American",
+                      "nationality_name_composed": "Americano"
+                    }
+                  ],
+                  "bio": "Donald Kent \"Deke\" Slayton, was an American World War II pilot, aeronautical engineer, and test pilot who was selected as one of the original NASA Mercury Seven astronauts, and became NASA's first Chief of the Astronaut Office.",
+                  "wiki": "https://en.wikipedia.org/wiki/Deke_Slayton",
+                  "last_flight": "1975-07-15T19:50:00Z",
+                  "first_flight": "1975-07-15T19:50:00Z",
+                  "social_media_links": []
+                }
+              }
+            ],
+            "onboard_crew": [],
+            "landing_crew": [
+              {
+                "id": 37,
+                "role": {
+                  "id": 1,
+                  "role": "Commander",
+                  "priority": 0
+                },
+                "astronaut": {
+                  "id": 31,
+                  "url": "https://ll.thespacedevs.com/2.3.0/astronauts/31/",
+                  "name": "Thomas P. Stafford",
+                  "status": {
+                    "id": 11,
+                    "name": "Deceased"
+                  },
+                  "agency": {
+                    "response_mode": "list",
+                    "id": 44,
+                    "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+                    "name": "National Aeronautics and Space Administration",
+                    "abbrev": "NASA",
+                    "type": {
+                      "id": 1,
+                      "name": "Government"
+                    }
+                  },
+                  "image": {
+                    "id": 947,
+                    "name": "[AUTO] Thomas P. Stafford - image",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/thomas_p._staff_image_20220911033654.jpeg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305191213.jpeg",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "response_mode": "list",
+                  "type": {
+                    "id": 2,
+                    "name": "Government"
+                  },
+                  "in_space": false,
+                  "time_in_space": "P21DT3H42M51S",
+                  "eva_time": "P0D",
+                  "age": 93,
+                  "date_of_birth": "1930-09-17",
+                  "date_of_death": "2024-03-18",
+                  "nationality": [
+                    {
+                      "id": 2,
+                      "name": "United States of America",
+                      "alpha_2_code": "US",
+                      "alpha_3_code": "USA",
+                      "nationality_name": "American",
+                      "nationality_name_composed": "Americano"
+                    }
+                  ],
+                  "bio": "Thomas Patten Stafford was an American Air Force officer, test pilot, and NASA astronaut.",
+                  "wiki": "https://en.wikipedia.org/wiki/Thomas_P._Stafford",
+                  "last_flight": "1975-07-15T19:50:00Z",
+                  "first_flight": "1965-12-15T13:37:26Z",
+                  "social_media_links": []
+                }
+              },
+              {
+                "id": 869,
+                "role": {
+                  "id": 5,
+                  "role": "Command Module Pilot",
+                  "priority": 1
+                },
+                "astronaut": {
+                  "id": 301,
+                  "url": "https://ll.thespacedevs.com/2.3.0/astronauts/301/",
+                  "name": "Vance D. Brand",
+                  "status": {
+                    "id": 2,
+                    "name": "Retired"
+                  },
+                  "agency": {
+                    "response_mode": "list",
+                    "id": 44,
+                    "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+                    "name": "National Aeronautics and Space Administration",
+                    "abbrev": "NASA",
+                    "type": {
+                      "id": 1,
+                      "name": "Government"
+                    }
+                  },
+                  "image": {
+                    "id": 528,
+                    "name": "[AUTO] Vance D. Brand - image",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vance2520d.2520brand_image_20181202090314.jpg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305190102.jpeg",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "response_mode": "list",
+                  "type": {
+                    "id": 2,
+                    "name": "Government"
+                  },
+                  "in_space": false,
+                  "time_in_space": "P31DT2H2M55S",
+                  "eva_time": "P0D",
+                  "age": 95,
+                  "date_of_birth": "1931-05-09",
+                  "date_of_death": null,
+                  "nationality": [
+                    {
+                      "id": 2,
+                      "name": "United States of America",
+                      "alpha_2_code": "US",
+                      "alpha_3_code": "USA",
+                      "nationality_name": "American",
+                      "nationality_name_composed": "Americano"
+                    }
+                  ],
+                  "bio": "Vance DeVoe Brand is an American former naval officer and aviator, aeronautical engineer, test pilot, and NASA astronaut. He served as Command Module Pilot during the first U.S.-Soviet joint spaceflight in 1975, and as Commander of three Space Shuttle missions.\r\n\r\nHis flight experience includes 9,669 flying hours, which includes 8,089 hours in jets, 391 hours in helicopters, 746 hours in spacecraft, and checkout in more than 30 types of military aircraft. Vance Brand Airport in Longmont, Colorado, is named in his honor.",
+                  "wiki": "https://en.wikipedia.org/wiki/Vance_D._Brand",
+                  "last_flight": "1990-12-02T06:49:00Z",
+                  "first_flight": "1975-07-15T19:50:00Z",
+                  "social_media_links": []
+                }
+              },
+              {
+                "id": 870,
+                "role": {
+                  "id": 18,
+                  "role": "Docking Module Pilot",
+                  "priority": 2
+                },
+                "astronaut": {
+                  "id": 22,
+                  "url": "https://ll.thespacedevs.com/2.3.0/astronauts/22/",
+                  "name": "Deke Slayton",
+                  "status": {
+                    "id": 11,
+                    "name": "Deceased"
+                  },
+                  "agency": {
+                    "response_mode": "list",
+                    "id": 44,
+                    "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+                    "name": "National Aeronautics and Space Administration",
+                    "abbrev": "NASA",
+                    "type": {
+                      "id": 1,
+                      "name": "Government"
+                    }
+                  },
+                  "image": {
+                    "id": 225,
+                    "name": "[AUTO] Deke Slayton - image",
+                    "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/deke2520slayton_image_20190426143649.jpeg",
+                    "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185249.jpeg",
+                    "credit": null,
+                    "license": {
+                      "id": 1,
+                      "name": "Unknown",
+                      "priority": 9,
+                      "link": null
+                    },
+                    "single_use": true,
+                    "variants": []
+                  },
+                  "response_mode": "list",
+                  "type": {
+                    "id": 2,
+                    "name": "Government"
+                  },
+                  "in_space": false,
+                  "time_in_space": "P9DT1H28M",
+                  "eva_time": "P0D",
+                  "age": 69,
+                  "date_of_birth": "1924-03-01",
+                  "date_of_death": "1993-06-13",
+                  "nationality": [
+                    {
+                      "id": 2,
+                      "name": "United States of America",
+                      "alpha_2_code": "US",
+                      "alpha_3_code": "USA",
+                      "nationality_name": "American",
+                      "nationality_name_composed": "Americano"
+                    }
+                  ],
+                  "bio": "Donald Kent \"Deke\" Slayton, was an American World War II pilot, aeronautical engineer, and test pilot who was selected as one of the original NASA Mercury Seven astronauts, and became NASA's first Chief of the Astronaut Office.",
+                  "wiki": "https://en.wikipedia.org/wiki/Deke_Slayton",
+                  "last_flight": "1975-07-15T19:50:00Z",
+                  "first_flight": "1975-07-15T19:50:00Z",
+                  "social_media_links": []
+                }
+              }
+            ],
+            "docking_events": [
+              {
+                "id": 584,
+                "url": "https://ll.thespacedevs.com/2.3.0/docking_events/584/",
+                "docking": "1975-07-17T16:09:00Z",
+                "departure": "1975-07-19T12:03:00Z",
+                "docking_location": {
+                  "id": 44,
+                  "name": "Apollo–Soyuz Docking Adapter",
+                  "spacestation": null,
+                  "spacecraft": {
+                    "response_mode": "normal",
+                    "id": 10,
+                    "url": "https://ll.thespacedevs.com/2.3.0/spacecraft_configurations/10/",
+                    "name": "Apollo Command/Service Module",
+                    "type": {
+                      "id": 2,
+                      "name": "Capsule"
+                    },
+                    "agency": {
+                      "response_mode": "list",
+                      "id": 999,
+                      "url": "https://ll.thespacedevs.com/2.3.0/agencies/999/",
+                      "name": "North American Aviation",
+                      "abbrev": "",
+                      "type": {
+                        "id": 3,
+                        "name": "Commercial"
+                      }
+                    },
+                    "family": [],
+                    "in_use": false,
+                    "image": {
+                      "id": 1902,
+                      "name": "[AUTO] Apollo Command/Service Module - image",
+                      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/apollo2520command2fservice2520module_image_20190207032507.jpeg",
+                      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194107.jpeg",
+                      "credit": null,
+                      "license": {
+                        "id": 1,
+                        "name": "Unknown",
+                        "priority": 9,
+                        "link": null
+                      },
+                      "single_use": true,
+                      "variants": []
+                    }
+                  },
+                  "payload": null
+                },
+                "space_station_target": null,
+                "flight_vehicle_target": {
+                  "id": 336,
+                  "url": "https://ll.thespacedevs.com/2.3.0/spacecraft_flights/336/",
+                  "destination": "Low Earth Orbit",
+                  "mission_end": "1975-07-21T10:50:00Z",
+                  "spacecraft": {
+                    "response_mode": "normal",
+                    "id": 187,
+                    "url": "https://ll.thespacedevs.com/2.3.0/spacecraft/187/",
+                    "name": "Soyuz 19",
+                    "serial_number": "Soyuz 7K-TM 11F615A12 #75",
+                    "is_placeholder": false,
+                    "image": {
+                      "id": 1927,
+                      "name": "[AUTO] Soyuz - image",
+                      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_image_20201015191152.jpg",
+                      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194147.jpeg",
+                      "credit": null,
+                      "license": {
+                        "id": 1,
+                        "name": "Unknown",
+                        "priority": 9,
+                        "link": null
+                      },
+                      "single_use": true,
+                      "variants": []
+                    },
+                    "in_space": false,
+                    "time_in_space": "P5DT22H30M",
+                    "time_docked": "P1DT22H46M12S",
+                    "flights_count": 1,
+                    "mission_ends_count": 1,
+                    "status": {
+                      "id": 4,
+                      "name": "Single Use"
+                    },
+                    "description": "Soyuz 19 was a Soyuz spacecraft which launched on 15 July 1975 12:20 UTC. It was used in the Apollo-Soyuz test project. The crew was Alexey Leonov and Valeri Kubasov.",
+                    "spacecraft_config": {
+                      "response_mode": "normal",
+                      "id": 1,
+                      "url": "https://ll.thespacedevs.com/2.3.0/spacecraft_configurations/1/",
+                      "name": "Soyuz",
+                      "type": {
+                        "id": 2,
+                        "name": "Capsule"
+                      },
+                      "agency": {
+                        "response_mode": "list",
+                        "id": 63,
+                        "url": "https://ll.thespacedevs.com/2.3.0/agencies/63/",
+                        "name": "Russian Federal Space Agency (ROSCOSMOS)",
+                        "abbrev": "RFSA",
+                        "type": {
+                          "id": 1,
+                          "name": "Government"
+                        }
+                      },
+                      "family": [
+                        {
+                          "response_mode": "normal",
+                          "id": 1,
+                          "name": "Soyuz",
+                          "description": "Soyuz is a series of spacecraft which has been in service since the 1960s, having made more than 140 flights. It was designed for the Soviet space program by the Korolev Design Bureau (now Energia).",
+                          "manufacturer": {
+                            "response_mode": "list",
+                            "id": 1000,
+                            "url": "https://ll.thespacedevs.com/2.3.0/agencies/1000/",
+                            "name": "Energia",
+                            "abbrev": "OKB-1",
+                            "type": {
+                              "id": 1,
+                              "name": "Government"
+                            }
+                          },
+                          "parent": null,
+                          "maiden_flight": "1966-11-28"
+                        }
+                      ],
+                      "in_use": false,
+                      "image": {
+                        "id": 1927,
+                        "name": "[AUTO] Soyuz - image",
+                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_image_20201015191152.jpg",
+                        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194147.jpeg",
+                        "credit": null,
+                        "license": {
+                          "id": 1,
+                          "name": "Unknown",
+                          "priority": 9,
+                          "link": null
+                        },
+                        "single_use": true,
+                        "variants": []
+                      }
+                    },
+                    "fastest_turnaround": null
+                  },
+                  "launch": {
+                    "id": "8199d0be-8200-47c1-bee0-1473e429556e",
+                    "url": "https://ll.thespacedevs.com/2.3.0/launches/8199d0be-8200-47c1-bee0-1473e429556e/",
+                    "name": "Soyuz-U | Soyuz 19",
+                    "response_mode": "normal",
+                    "slug": "soyuz-u-soyuz-19",
+                    "launch_designator": "1975-065",
+                    "status": {
+                      "id": 3,
+                      "name": "Launch Successful",
+                      "abbrev": "Success",
+                      "description": "The launch vehicle successfully inserted its payload(s) into the target orbit(s)."
+                    },
+                    "last_updated": "2023-06-14T08:41:00Z",
+                    "net": "1975-07-15T12:20:00Z",
+                    "net_precision": null,
+                    "window_end": "1975-07-15T12:20:00Z",
+                    "window_start": "1975-07-15T12:20:00Z",
+                    "image": {
+                      "id": 1835,
+                      "name": "[AUTO] Soyuz U - image",
+                      "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz2520u_image_20190222031023.jpeg",
+                      "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305193909.jpeg",
+                      "credit": null,
+                      "license": {
+                        "id": 1,
+                        "name": "Unknown",
+                        "priority": 9,
+                        "link": null
+                      },
+                      "single_use": true,
+                      "variants": []
+                    },
+                    "infographic": null,
+                    "probability": null,
+                    "weather_concerns": null,
+                    "failreason": null,
+                    "hashtag": null,
+                    "launch_service_provider": {
+                      "response_mode": "list",
+                      "id": 66,
+                      "url": "https://ll.thespacedevs.com/2.3.0/agencies/66/",
+                      "name": "Soviet Space Program",
+                      "abbrev": "CCCP",
+                      "type": {
+                        "id": 1,
+                        "name": "Government"
+                      }
+                    },
+                    "rocket": {
+                      "id": 251,
+                      "configuration": {
+                        "response_mode": "list",
+                        "id": 37,
+                        "url": "https://ll.thespacedevs.com/2.3.0/launcher_configurations/37/",
+                        "name": "Soyuz U",
+                        "families": [
+                          {
+                            "response_mode": "list",
+                            "id": 147,
+                            "name": "Soyuz"
+                          }
+                        ],
+                        "full_name": "Soyuz U",
+                        "variant": ""
+                      }
+                    },
+                    "mission": {
+                      "id": 912,
+                      "name": "Soyuz 19",
+                      "type": "Human Exploration",
+                      "description": "Soyuz 19 was a part of the Apollo-Soyuz Test Project, which was the first joint US-Soviet space flight.\nThe Soviet side of mission began on July 15, 1975, 12:20:00 UTC, launching Commander Alexey Leonov and Flight Engineer Valeri Kubasov into orbit. Two days later, they docked with the Apollo spacecraft. American and Soviet crews visited each other's spacecrafts, performed docking and redocking maneuvers, conducted joint scientific experiments, exchanged flags and gifts. Crews spent more than 44 hours together, and after final parting of the ships Soviet crew spent five more days in orbit.\nSoyuz 19 returned to Earth with a safe landing on July 21, 1975, 10:50:00 UTC.",
+                      "image": null,
+                      "orbit": {
+                        "id": 8,
+                        "name": "Low Earth Orbit",
+                        "abbrev": "LEO",
+                        "celestial_body": {
+                          "response_mode": "list",
+                          "id": 1,
+                          "name": "Earth"
+                        }
+                      },
+                      "agencies": [],
+                      "info_urls": [],
+                      "vid_urls": []
+                    },
+                    "pad": {
+                      "id": 32,
+                      "url": "https://ll.thespacedevs.com/2.3.0/pads/32/",
+                      "active": true,
+                      "agencies": [],
+                      "name": "1/5",
+                      "image": null,
+                      "description": null,
+                      "info_url": null,
+                      "wiki_url": "",
+                      "map_url": "https://www.google.com/maps?q=45.92,63.342",
+                      "latitude": 45.92,
+                      "longitude": 63.342,
+                      "country": {
+                        "id": 44,
+                        "name": "Kazakhstan",
+                        "alpha_2_code": "KZ",
+                        "alpha_3_code": "KAZ",
+                        "nationality_name": "Kazakh",
+                        "nationality_name_composed": "Kazakhstani"
+                      },
+                      "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_32_20200803143513.jpg",
+                      "total_launch_count": 487,
+                      "orbital_launch_attempt_count": 487,
+                      "fastest_turnaround": "PT23H32M33S",
+                      "location": {
+                        "response_mode": "normal",
+                        "id": 15,
+                        "url": "https://ll.thespacedevs.com/2.3.0/locations/15/",
+                        "name": "Baikonur Cosmodrome, Republic of Kazakhstan",
+                        "celestial_body": {
+                          "response_mode": "normal",
+                          "id": 1,
+                          "name": "Earth",
+                          "type": {
+                            "id": 1,
+                            "name": "Planet"
+                          },
+                          "diameter": 12742000.0,
+                          "mass": 5.972168e+24,
+                          "gravity": 9.80655,
+                          "length_of_day": "1 00:00:00",
+                          "atmosphere": true,
+                          "image": {
+                            "id": 2040,
+                            "name": "Earth (Apollo 17)",
+                            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+                            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+                            "credit": "NASA",
+                            "license": {
+                              "id": 4,
+                              "name": "NASA Image and Media Guidelines",
+                              "priority": 0,
+                              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+                            },
+                            "single_use": true,
+                            "variants": []
+                          },
+                          "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+                          "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+                          "total_attempted_launches": 7507,
+                          "successful_launches": 6951,
+                          "failed_launches": 556,
+                          "total_attempted_landings": 1307,
+                          "successful_landings": 1260,
+                          "failed_landings": 47
+                        },
+                        "active": true,
+                        "country": {
+                          "id": 44,
+                          "name": "Kazakhstan",
+                          "alpha_2_code": "KZ",
+                          "alpha_3_code": "KAZ",
+                          "nationality_name": "Kazakh",
+                          "nationality_name_composed": "Kazakhstani"
+                        },
+                        "description": "The Baikonur Cosmodrome is a spaceport operated by Russia within Kazakhstan. Located in the Kazakh city of Baikonur, it is the largest operational space launch facility in terms of area. All Russian crewed spaceflights are launched from Baikonur.",
+                        "image": {
+                          "id": 2198,
+                          "name": "Soyuz launch pad at the Baikonur Cosmodrome",
+                          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_launch_pa_image_20240918150530.jpg",
+                          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_launch_pa_image_thumbnail_20240918150530.jpeg",
+                          "credit": "NASA/Bill Ingalls",
+                          "license": {
+                            "id": 4,
+                            "name": "NASA Image and Media Guidelines",
+                            "priority": 0,
+                            "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+                          },
+                          "single_use": true,
+                          "variants": []
+                        },
+                        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_15_20200803142517.jpg",
+                        "longitude": 63.305,
+                        "latitude": 45.965,
+                        "timezone_name": "Asia/Qyzylorda",
+                        "total_launch_count": 1563,
+                        "total_landing_count": 0
+                      }
+                    },
+                    "webcast_live": false,
+                    "program": [
+                      {
+                        "response_mode": "normal",
+                        "id": 8,
+                        "url": "https://ll.thespacedevs.com/2.3.0/programs/8/",
+                        "name": "Soyuz",
+                        "image": {
+                          "id": 1892,
+                          "name": "[AUTO] Soyuz - image",
+                          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_program_20201129185543.png",
+                          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305194048.png",
+                          "credit": null,
+                          "license": {
+                            "id": 1,
+                            "name": "Unknown",
+                            "priority": 9,
+                            "link": null
+                          },
+                          "single_use": true,
+                          "variants": []
+                        },
+                        "info_url": null,
+                        "wiki_url": "https://en.wikipedia.org/wiki/Soyuz_programme",
+                        "description": "The Soyuz programme is a human spaceflight programme initiated by the Soviet Union in the early 1960s. The Soyuz spacecraft was originally part of a Moon landing project intended to put a Soviet cosmonaut on the Moon. It was the third Soviet human spaceflight programme after the Vostok and Voskhod programmes.",
+                        "agencies": [
+                          {
+                            "response_mode": "list",
+                            "id": 63,
+                            "url": "https://ll.thespacedevs.com/2.3.0/agencies/63/",
+                            "name": "Russian Federal Space Agency (ROSCOSMOS)",
+                            "abbrev": "RFSA",
+                            "type": {
+                              "id": 1,
+                              "name": "Government"
+                            }
+                          },
+                          {
+                            "response_mode": "list",
+                            "id": 66,
+                            "url": "https://ll.thespacedevs.com/2.3.0/agencies/66/",
+                            "name": "Soviet Space Program",
+                            "abbrev": "CCCP",
+                            "type": {
+                              "id": 1,
+                              "name": "Government"
+                            }
+                          }
+                        ],
+                        "start_date": "1966-11-28T11:02:00Z",
+                        "end_date": null,
+                        "mission_patches": [],
+                        "type": {
+                          "id": 2,
+                          "name": "Human Spaceflight"
+                        }
+                      }
+                    ],
+                    "orbital_launch_attempt_count": 1720,
+                    "location_launch_attempt_count": 430,
+                    "pad_launch_attempt_count": 149,
+                    "agency_launch_attempt_count": 936,
+                    "orbital_launch_attempt_count_year": 69,
+                    "location_launch_attempt_count_year": 15,
+                    "pad_launch_attempt_count_year": 4,
+                    "agency_launch_attempt_count_year": 50
+                  },
+                  "landing": {
+                    "id": 727,
+                    "url": "https://ll.thespacedevs.com/2.3.0/landings/727/",
+                    "attempt": true,
+                    "success": true,
+                    "description": "The Soyuz spacecraft safely landed in Kazakhstan.",
+                    "downrange_distance": null,
+                    "landing_location": {
+                      "id": 19,
+                      "name": "Kazakhstan",
+                      "active": true,
+                      "abbrev": "KAZ",
+                      "description": "Deserts of Kazakhstan in Central Asia",
+                      "location": null,
+                      "longitude": null,
+                      "latitude": null,
+                      "image": {
+                        "id": 1056,
+                        "name": "Soyuz MS landing (MS-04)",
+                        "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz2520ms-122520landing_image_20190929074125.jpg",
+                        "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305191514.jpeg",
+                        "credit": "NASA/Bill Ingalls",
+                        "license": {
+                          "id": 4,
+                          "name": "NASA Image and Media Guidelines",
+                          "priority": 0,
+                          "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+                        },
+                        "single_use": false,
+                        "variants": []
+                      },
+                      "successful_landings": 195,
+                      "attempted_landings": 202,
+                      "failed_landings": 7,
+                      "celestial_body": {
+                        "response_mode": "normal",
+                        "id": 1,
+                        "name": "Earth",
+                        "type": {
+                          "id": 1,
+                          "name": "Planet"
+                        },
+                        "diameter": 12742000.0,
+                        "mass": 5.972168e+24,
+                        "gravity": 9.80655,
+                        "length_of_day": "1 00:00:00",
+                        "atmosphere": true,
+                        "image": {
+                          "id": 2040,
+                          "name": "Earth (Apollo 17)",
+                          "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+                          "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+                          "credit": "NASA",
+                          "license": {
+                            "id": 4,
+                            "name": "NASA Image and Media Guidelines",
+                            "priority": 0,
+                            "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+                          },
+                          "single_use": true,
+                          "variants": []
+                        },
+                        "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+                        "wiki_url": "https://en.wikipedia.org/wiki/Earth"
+                      }
+                    },
+                    "type": {
+                      "id": 4,
+                      "name": "Parachute Landing",
+                      "abbrev": "PCL",
+                      "description": "Unpowered landing using parachute(s)."
+                    }
+                  },
+                  "duration": "P5DT22H30M",
+                  "turn_around_time": null,
+                  "response_mode": "normal"
+                },
+                "payload_flight_target": null
+              }
+            ]
+          }
+        ],
+        "payloads": []
+      },
+      "mission": {
+        "id": 914,
+        "name": "Apollo-Soyuz Test Project",
+        "type": "Human Exploration",
+        "description": "The Apollo-Soyuz Test Project was the first joint US-Soviet space flight and the last crewed US space mission until the Space Shuttle program.\nThe US side of mission began on July 15, 1975, 19:50:00 UTC, launching Commander Thomas P. Stafford, Command Module Pilot Vance D. Brand and Docking Module Pilot Donald K. Slayton into orbit. Two days later, they docked with the Soyuz 19 spacecraft. American and Soviet crews visited each other's spacecrafts, performed docking and redocking maneuvers, conducted joint scientific experiments, exchanged flags and gifts. Crews spent more than 44 hours together, and after final parting of the ships on July 19, Apollo crew spent nine more days in orbit, conducting Earth observation experiments.\nThe Apollo crew returned to Earth on July 24, 1975, 21:18:0 UTC with a splashdown in the Pacific Ocean.",
+        "image": null,
+        "orbit": {
+          "id": 8,
+          "name": "Low Earth Orbit",
+          "abbrev": "LEO",
+          "celestial_body": {
+            "response_mode": "list",
+            "id": 1,
+            "name": "Earth"
+          }
+        },
+        "agencies": [],
+        "info_urls": [],
+        "vid_urls": []
+      },
+      "pad": {
+        "id": 4,
+        "url": "https://ll.thespacedevs.com/2.3.0/pads/4/",
+        "active": true,
+        "agencies": [
+          {
+            "response_mode": "normal",
+            "id": 44,
+            "url": "https://ll.thespacedevs.com/2.3.0/agencies/44/",
+            "name": "National Aeronautics and Space Administration",
+            "abbrev": "NASA",
+            "type": {
+              "id": 1,
+              "name": "Government"
+            },
+            "featured": true,
+            "country": [
+              {
+                "id": 2,
+                "name": "United States of America",
+                "alpha_2_code": "US",
+                "alpha_3_code": "USA",
+                "nationality_name": "American",
+                "nationality_name_composed": "Americano"
+              }
+            ],
+            "description": "The National Aeronautics and Space Administration is an independent agency of the executive branch of the United States federal government responsible for the civilian space program, as well as aeronautics and aerospace research. NASA have many launch facilities but most are inactive. The most commonly used pad will be LC-39B at Kennedy Space Center in Florida.",
+            "administrator": "Administrator: Jared Isaacman",
+            "founding_year": 1958,
+            "launchers": "Space Shuttle | SLS",
+            "spacecraft": "Orion",
+            "parent": null,
+            "image": {
+              "id": 19,
+              "name": "[AUTO] National Aeronautics and Space Administration - image",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_image_20190207032448.jpeg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184631.jpeg",
+              "credit": null,
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "logo": {
+              "id": 161,
+              "name": "[AUTO] National Aeronautics and Space Administration - logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_logo_20190207032448.png",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305185043.png",
+              "credit": null,
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "social_logo": {
+              "id": 76,
+              "name": "[AUTO] National Aeronautics and Space Administration - social_logo",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/national2520aeronautics2520and2520space2520administration_nation_20230803040809.jpg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184823.jpeg",
+              "credit": null,
+              "license": {
+                "id": 1,
+                "name": "Unknown",
+                "priority": 9,
+                "link": null
+              },
+              "single_use": true,
+              "variants": []
+            }
+          }
+        ],
+        "name": "Launch Complex 39B",
+        "image": null,
+        "description": null,
+        "info_url": null,
+        "wiki_url": "https://en.wikipedia.org/wiki/Kennedy_Space_Center_Launch_Complex_39#Launch_Pad_39B",
+        "map_url": "https://www.google.com/maps?q=28.62711233,-80.62101503",
+        "latitude": 28.62711233,
+        "longitude": -80.62101503,
+        "country": {
+          "id": 2,
+          "name": "United States of America",
+          "alpha_2_code": "US",
+          "alpha_3_code": "USA",
+          "nationality_name": "American",
+          "nationality_name_composed": "Americano"
+        },
+        "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/pad_4_20200803143518.jpg",
+        "total_launch_count": 59,
+        "orbital_launch_attempt_count": 58,
+        "fastest_turnaround": "P28DT11H55M4S",
+        "location": {
+          "response_mode": "normal",
+          "id": 27,
+          "url": "https://ll.thespacedevs.com/2.3.0/locations/27/",
+          "name": "Kennedy Space Center, FL, USA",
+          "celestial_body": {
+            "response_mode": "normal",
+            "id": 1,
+            "name": "Earth",
+            "type": {
+              "id": 1,
+              "name": "Planet"
+            },
+            "diameter": 12742000.0,
+            "mass": 5.972168e+24,
+            "gravity": 9.80655,
+            "length_of_day": "1 00:00:00",
+            "atmosphere": true,
+            "image": {
+              "id": 2040,
+              "name": "Earth (Apollo 17)",
+              "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_20240402194304.jpeg",
+              "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/earth_2528apol_image_thumbnail_20240402194305.jpeg",
+              "credit": "NASA",
+              "license": {
+                "id": 4,
+                "name": "NASA Image and Media Guidelines",
+                "priority": 0,
+                "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+              },
+              "single_use": true,
+              "variants": []
+            },
+            "description": "Earth is the third planet from the Sun and the only astronomical object known to harbor life.",
+            "wiki_url": "https://en.wikipedia.org/wiki/Earth",
+            "total_attempted_launches": 7507,
+            "successful_launches": 6951,
+            "failed_launches": 556,
+            "total_attempted_landings": 1307,
+            "successful_landings": 1260,
+            "failed_landings": 47
+          },
+          "active": true,
+          "country": {
+            "id": 2,
+            "name": "United States of America",
+            "alpha_2_code": "US",
+            "alpha_3_code": "USA",
+            "nationality_name": "American",
+            "nationality_name_composed": "Americano"
+          },
+          "description": "The John F. Kennedy Space Center, located on Merritt Island, Florida, is one of NASA's ten field centers. Since 1968, KSC has been NASA's primary launch center of American spaceflight, research, and technology. Launch operations for the Apollo, Skylab and Space Shuttle programs were carried out from Kennedy Space Center Launch Complex 39 and managed by KSC. Located on the east coast of Florida, KSC is adjacent to Cape Canaveral Space Force Station (CCSFS).",
+          "image": {
+            "id": 2200,
+            "name": "Cape Canaveral & KSC seen from orbit (STS-43)",
+            "image_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_20240918151615.jpg",
+            "thumbnail_url": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cape_canaveral__image_thumbnail_20240918151616.jpeg",
+            "credit": "NASA",
+            "license": {
+              "id": 4,
+              "name": "NASA Image and Media Guidelines",
+              "priority": 0,
+              "link": "https://www.nasa.gov/nasa-brand-center/images-and-media/"
+            },
+            "single_use": true,
+            "variants": []
+          },
+          "map_image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/map_images/location_27_20200803142447.jpg",
+          "longitude": -80.650833,
+          "latitude": 28.524167,
+          "timezone_name": "America/New_York",
+          "total_launch_count": 281,
+          "total_landing_count": 0
+        }
+      },
+      "webcast_live": false,
+      "program": [],
+      "orbital_launch_attempt_count": 1721,
+      "location_launch_attempt_count": 17,
+      "pad_launch_attempt_count": 5,
+      "agency_launch_attempt_count": 129,
+      "orbital_launch_attempt_count_year": 70,
+      "location_launch_attempt_count_year": 1,
+      "pad_launch_attempt_count_year": 1,
+      "agency_launch_attempt_count_year": 2,
+      "flightclub_url": null,
+      "updates": [],
+      "info_urls": [],
+      "vid_urls": [
+        {
+          "priority": 0,
+          "source": "youtube.com",
+          "publisher": "lunarmodule5",
+          "title": "Launch of Apollo (CBS) (ASTP)",
+          "description": "The Launch of the Apollo Spacecraft at the start of the Apollo-Soyuz Test Project (ASTP) mission - July 15th 1975. Onbaord are astronauts Tom Stafford, Deke Slayton and Vance Brand. This is the CBS co...",
+          "feature_image": "https://i.ytimg.com/vi/cq12RdNLIA4/hqdefault.jpg",
+          "url": "https://www.youtube.com/watch?v=cq12RdNLIA4",
+          "type": {
+            "id": 6,
+            "name": "Recap"
+          },
+          "language": {
+            "id": 1,
+            "name": "English",
+            "code": "en"
+          },
+          "start_time": "2010-07-08T20:14:28Z",
+          "end_time": "2010-07-08T20:22:02Z",
+          "live": false
+        }
+      ],
+      "timeline": [],
+      "pad_turnaround": "P606DT5H48M37S",
+      "mission_patches": []
+    }
+  ]
+}
